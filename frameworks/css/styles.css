@@ -1,0 +1,13 @@
+/* our stylesheet in which we can override, extend, or add to
+the styles defined by Bootstrap */
+
+/* no need for a reset.css here, as Bootstrap already includes 
+those resets in its own stylesheet */ 
+
+.alert-info {
+	border-left: 2px solid #00F;
+	background-image: url(../img/info.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: left center
+}

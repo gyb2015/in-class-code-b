@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML Forms Demo</title>
+
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <h1>HTML Forms</h1>
+
+        <!-- URL for form echo script: https://courses.washington.edu/info343/echo/ -->
+        
+        <h1>Search Form</h1>
+        <form method="GET" action="https://www.google.com/search">
+            <label>Search:
+                <input type="search" name="q" autofocus placeholder="search for...">
+            </label>
+            <input type="hidden" name="as_sitesearch" value="ischool.uw.edu">
+            <button type="submit">Search</button>
+        </form>
+
+        <h1>POST Form</h1>
+        <form method="POST" action="https://courses.washington.edu/info343/echo/" class="signup-form">
+            <p>
+                <label for="name-input">Name:</label>
+                <input id="name-input" type="text" name="name" required>
+            </p>
+            <p>
+                <label>
+                    <input type="checkbox" name="sell-info"> Feel Free to Sell my Soul
+                </label>
+            </p>
+            <p>
+                <select name="state">
+                    <option value="" selected disabled>choose a state...</option>
+                </select>
+            </p>
+            <p>
+                <button type="submit">Sign Up</button>
+            </p>
+
+        </form>
+
+
+
+
+
+        <!-- hot link to minified jQuery library, version 2.0.3 -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+        <!-- our own script files -->
+        <script src="js/us-states.js"></script>
+        <script src="js/forms-demo.js"></script>
+
+    </body>
+</html>

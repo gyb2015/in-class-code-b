@@ -1,0 +1,88 @@
+@import url(reset.css);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+	padding: 20px;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	/*background-image: url('../img/texture.jpg');*/
+}
+
+:focus {
+	outline: #F00 dotted 2px;
+	background-color: #FFF700;
+}
+
+header {
+	background-color: #EEE;
+	width: 40%;
+	padding: 20px;
+}
+
+header img {
+	float: right;
+	opacity: 0.5;
+}
+
+header img:hover {
+	opacity: 1;
+}
+
+h1 {
+	font-size: 150%;
+	line-height: 48px;
+}
+
+.content {
+	clear: both;
+	line-height: 1.5em;
+}
+
+article {
+	background-color: rgba(255,255,255,0.7);
+	padding: 50px;
+}
+
+nav ul {
+	background-color: #EEE;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	display: inline-block;
+	padding: 20px;
+	text-decoration: none;
+	font-weight: bold;
+
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+
+nav a:hover {
+	background-color: #999;
+	color: #F00;
+}
+
+.zoom {
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-ms-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+
+.zoom:hover {
+	-webkit-transform: scale(1.5) rotate(360deg);
+	-moz-transform: scale(1.5) rotate(360deg);
+	-o-transform: scale(1.5) rotate(360deg);
+	-ms-transform: scale(1.5) rotate(360deg);
+	transform: scale(1.5) rotate(360deg);
+}

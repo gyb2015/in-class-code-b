@@ -1,0 +1,59 @@
+@import url(reset.css);
+@import url(https://fonts.googleapis.com/css?family=Andika);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+/* this setting tells the browser to include padding and borders
+when calculating the width or height of an element */
+* {
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Andika', sans-serif;
+    font-size: 18px;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: 'Pacifico', serif;
+}
+
+h1 {
+    font-size: 200%;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 150%;
+    margin-bottom: 0.5em;
+}
+
+.col {
+	float: left;
+	width: 33%;
+	padding: 10px;
+}
+
+.row {
+	clear: both;
+	min-width: 600px;
+}
+
+.col-left {
+	background-image: url(../img/soccer.png);
+	background-repeat: no-repeat;
+	padding-left: 80px;
+}
+
+.col-mid {
+	background-image: url(../img/announcement.png);
+	background-repeat: no-repeat;
+	padding-left: 80px;
+}
+
+.col-right {
+	background-image: url(../img/photos.png);
+	background-repeat: no-repeat;
+	padding-left: 80px;
+}

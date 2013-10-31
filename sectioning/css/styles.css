@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+body {
+	font-family: 'Calibri', sans-serf;
+	font-size: 18px;
+	padding: 20px;
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+h1 {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+section p:first-of-type:first-letter {
+	float: left;
+	font-size: 300%;
+	font-family: 'Georgia', serif;
+	color: #900;
+	margin-right: 5px;
+}
+
+aside {
+	float: right;
+	background-color: #EEE;
+	border: 1px dotted #CCC;
+	margin-left: 10px;
+	padding: 20px;
+}
