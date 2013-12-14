@@ -1,0 +1,13 @@
+.working:before {
+    content: url(../img/loading.gif);
+    margin-right: 1em;
+    min-height: 16px;
+}
+
+.required {
+    color: #FF0000;
+}
+
+.error-message {
+    display: none;
+}

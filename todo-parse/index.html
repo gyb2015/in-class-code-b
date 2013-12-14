@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>To-Do List</title>
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/common.css">
+        <link rel="stylesheet" href="css/tasks.css">
+
+        <!-- Including the Parse.com library here and checking current user
+        so that we redirect to the signup page right away, before showing
+        the body of this page
+         -->
+        <script src="https://www.parsecdn.com/js/parse-1.2.13.min.js"></script>
+        <script src="js/parseApp.js"></script>
+        <script>
+            //if no current user, or user is not authenticated
+            //then redirect to signup.html
+            var currentUser = Parse.User.current();
+            if (!currentUser || !currentUser.authenticated()) {
+                window.location = 'signup.html';
+            }
+        </script>
+
+    </head>
+    <body>
+        <div class="container">
+            
+            <p class="alert alert-danger error-message"></p>
+
+            <button type="button" class="btn btn-default btn-signout">Sign Out</button>
+            <h1>New Task</h1>
+            <form role="form" class="new-task-form">
+                <div class="form-group">
+                    <label for="title">New Task Title</label>
+                    <input type="text" class="form-control" id="title" data-model-attr="title" placeholder="new task title" required autofocus>
+                </div>
+                <button type="submit" class="btn btn-primary">Create New Task</button>
+            </form>
+
+            <h1>Current Tasks</h1>
+            <div class="tasks-container"></div>
+            <p><button type="button" class="btn btn-default btn-remove-done">Remove Done Tasks</button></p>
+
+        </div>
+
+        <!-- task template -->
+        <script type="text/template"  id="task-item-template">
+            <ul>    
+                {{#models}}
+                <li class="task">
+                    <input class="toggle-done" type="checkbox" data-model-id="{{id}}" {{#attributes.done}}checked{{/attributes.done}}>
+                    <span {{#attributes.done}}class='done'{{/attributes.done}}>{{attributes.title}}</span>
+                </li>
+                {{/models}}
+            </ul>
+        </script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+        <script src="lib/mustache.js"></script>
+
+        <script src="js/utils.js"></script>
+        <script src="js/eventSource.js"></script>
+        <script src="js/taskModel.js"></script>
+        <script src="js/taskList.js"></script>
+        <script src="js/templateView.js"></script>
+        <script src="js/taskView.js"></script>
+        <script src="js/formView.js"></script>
+        <script src="js/indexController.js"></script>  
+    </body>
+</html>

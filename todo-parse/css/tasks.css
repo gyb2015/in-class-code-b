@@ -1,0 +1,16 @@
+.tasks-container ul {
+    padding-left: 0;
+}
+
+.task {
+    list-style: none;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.btn-signout {
+    float: right;
+    margin-top: 2em;
+}

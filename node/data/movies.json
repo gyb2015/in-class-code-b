@@ -1,0 +1,5302 @@
+[
+  {
+    "rank":1,
+    "title":"Marvel's The Avengers",
+    "releasedOn":"5/4/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":623279547,
+    "tickets":78301450
+  },
+  {
+    "rank":2,
+    "title":"The Dark Knight Rises",
+    "releasedOn":"7/20/12",
+    "studio":"Warner Bros.",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":448139099,
+    "tickets":56298881
+  },
+  {
+    "rank":3,
+    "title":"The Hunger Games",
+    "releasedOn":"3/23/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":408010692,
+    "tickets":51257624
+  },
+  {
+    "rank":4,
+    "title":"Skyfall",
+    "releasedOn":"11/8/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":293729570,
+    "tickets":36900699
+  },
+  {
+    "rank":5,
+    "title":"The Twilight Saga: Breaking Dawn, Part 2",
+    "releasedOn":"11/16/12",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":287756286,
+    "tickets":36150287
+  },
+  {
+    "rank":6,
+    "title":"The Amazing Spider-Man",
+    "releasedOn":"7/3/12",
+    "studio":"Sony Pictures",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":262030663,
+    "tickets":32918425
+  },
+  {
+    "rank":7,
+    "title":"The Hobbit: An Unexpected Journey",
+    "releasedOn":"12/14/12",
+    "studio":"Warner Bros.",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":246289507,
+    "tickets":30940892
+  },
+  {
+    "rank":8,
+    "title":"Brave",
+    "releasedOn":"6/22/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":237236938,
+    "tickets":29803635
+  },
+  {
+    "rank":9,
+    "title":"Ted",
+    "releasedOn":"6/29/12",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":218665740,
+    "tickets":27470570
+  },
+  {
+    "rank":10,
+    "title":"Madagascar 3: Europe's Most Wanted",
+    "releasedOn":"6/8/12",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":216391482,
+    "tickets":27184859
+  },
+  {
+    "rank":11,
+    "title":"Dr. Seuss' The Lorax",
+    "releasedOn":"3/2/12",
+    "studio":"Universal",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":214030500,
+    "tickets":26888253
+  },
+  {
+    "rank":12,
+    "title":"Men in Black 3",
+    "releasedOn":"5/25/12",
+    "studio":"Sony Pictures",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":179020854,
+    "tickets":22490057
+  },
+  {
+    "rank":13,
+    "title":"Wreck-It Ralph",
+    "releasedOn":"11/2/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":177319916,
+    "tickets":22276371
+  },
+  {
+    "rank":14,
+    "title":"Ice Age: Continental Drift",
+    "releasedOn":"7/13/12",
+    "studio":"20th Century Fox",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":161168962,
+    "tickets":20247357
+  },
+  {
+    "rank":15,
+    "title":"Snow White and the Huntsman",
+    "releasedOn":"6/1/12",
+    "studio":"Universal",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":155136755,
+    "tickets":19489542
+  },
+  {
+    "rank":16,
+    "title":"Hotel Transylvania",
+    "releasedOn":"9/28/12",
+    "studio":"Sony Pictures",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":145706677,
+    "tickets":18304858
+  },
+  {
+    "rank":17,
+    "title":"Taken 2",
+    "releasedOn":"10/5/12",
+    "studio":"20th Century Fox",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":139076968,
+    "tickets":17471980
+  },
+  {
+    "rank":18,
+    "title":"Lincoln",
+    "releasedOn":"11/16/12",
+    "studio":"Walt Disney",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":138675219,
+    "tickets":17421509
+  },
+  {
+    "rank":19,
+    "title":"21 Jump Street",
+    "releasedOn":"3/16/12",
+    "studio":"Sony Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":138447667,
+    "tickets":17392922
+  },
+  {
+    "rank":20,
+    "title":"Prometheus",
+    "releasedOn":"6/8/12",
+    "studio":"20th Century Fox",
+    "genre":"Adventure",
+    "rating":"R",
+    "revenue":126477084,
+    "tickets":15889080
+  },
+  {
+    "rank":21,
+    "title":"Safe House",
+    "releasedOn":"2/10/12",
+    "studio":"Universal",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":126181630,
+    "tickets":15851963
+  },
+  {
+    "rank":22,
+    "title":"The Vow",
+    "releasedOn":"2/10/12",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":125014030,
+    "tickets":15705280
+  },
+  {
+    "rank":23,
+    "title":"Magic Mike",
+    "releasedOn":"6/29/12",
+    "studio":"Warner Bros.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":113721571,
+    "tickets":14286629
+  },
+  {
+    "rank":24,
+    "title":"The Bourne Legacy",
+    "releasedOn":"8/10/12",
+    "studio":"Universal",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":113203870,
+    "tickets":14221591
+  },
+  {
+    "rank":25,
+    "title":"Argo",
+    "releasedOn":"10/12/12",
+    "studio":"Warner Bros.",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":109317698,
+    "tickets":13733379
+  },
+  {
+    "rank":26,
+    "title":"Journey 2: The Mysterious Island",
+    "releasedOn":"2/10/12",
+    "studio":"Warner Bros.",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":103860290,
+    "tickets":13047775
+  },
+  {
+    "rank":27,
+    "title":"Rise of the Guardians",
+    "releasedOn":"11/21/12",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":94552084,
+    "tickets":11878402
+  },
+  {
+    "rank":28,
+    "title":"Flight",
+    "releasedOn":"11/2/12",
+    "studio":"Paramount Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":92234057,
+    "tickets":11587193
+  },
+  {
+    "rank":29,
+    "title":"Think Like a Man",
+    "releasedOn":"4/20/12",
+    "studio":"Sony Pictures",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":91547205,
+    "tickets":11500905
+  },
+  {
+    "rank":30,
+    "title":"Life of Pi",
+    "releasedOn":"11/21/12",
+    "studio":"20th Century Fox",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":88226096,
+    "tickets":11083680
+  },
+  {
+    "rank":31,
+    "title":"Les Miserables",
+    "releasedOn":"12/25/12",
+    "studio":"Universal",
+    "genre":"Musical",
+    "rating":"PG-13",
+    "revenue":87487480,
+    "tickets":10990889
+  },
+  {
+    "rank":32,
+    "title":"The Campaign",
+    "releasedOn":"8/10/12",
+    "studio":"Warner Bros.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":86907746,
+    "tickets":10918058
+  },
+  {
+    "rank":33,
+    "title":"Django Unchained",
+    "releasedOn":"12/25/12",
+    "studio":"Weinstein Co.",
+    "genre":"Western",
+    "rating":"R",
+    "revenue":86269377,
+    "tickets":10837861
+  },
+  {
+    "rank":34,
+    "title":"The Expendables 2",
+    "releasedOn":"8/17/12",
+    "studio":"Lionsgate",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":85028192,
+    "tickets":10681933
+  },
+  {
+    "rank":35,
+    "title":"Wrath of the Titans",
+    "releasedOn":"3/30/12",
+    "studio":"Warner Bros.",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":83670083,
+    "tickets":10511316
+  },
+  {
+    "rank":36,
+    "title":"Beauty and the Beast 3D",
+    "releasedOn":"1/13/12",
+    "studio":"Walt Disney",
+    "genre":"Musical",
+    "rating":"G",
+    "revenue":81619237,
+    "tickets":10253672
+  },
+  {
+    "rank":37,
+    "title":"Dark Shadows",
+    "releasedOn":"5/11/12",
+    "studio":"Warner Bros.",
+    "genre":"Black Comedy",
+    "rating":"PG-13",
+    "revenue":79727149,
+    "tickets":10015973
+  },
+  {
+    "rank":38,
+    "title":"John Carter",
+    "releasedOn":"3/9/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"PG-13",
+    "revenue":73058679,
+    "tickets":9178226
+  },
+  {
+    "rank":39,
+    "title":"Act of Valor",
+    "releasedOn":"2/24/12",
+    "studio":"Relativity",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":70012847,
+    "tickets":8795583
+  },
+  {
+    "rank":40,
+    "title":"Contraband",
+    "releasedOn":"1/13/12",
+    "studio":"Universal",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":66528000,
+    "tickets":8357788
+  },
+  {
+    "rank":41,
+    "title":"Looper",
+    "releasedOn":"9/28/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":66486205,
+    "tickets":8352538
+  },
+  {
+    "rank":42,
+    "title":"Tyler Perry's Madea's Witness Protection",
+    "releasedOn":"6/29/12",
+    "studio":"Lionsgate",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":65653242,
+    "tickets":8247894
+  },
+  {
+    "rank":43,
+    "title":"Battleship",
+    "releasedOn":"5/18/12",
+    "studio":"Universal",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":65233400,
+    "tickets":8195150
+  },
+  {
+    "rank":44,
+    "title":"Mirror Mirror",
+    "releasedOn":"3/30/12",
+    "studio":"Relativity",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":64935167,
+    "tickets":8157684
+  },
+  {
+    "rank":45,
+    "title":"Chronicle",
+    "releasedOn":"2/3/12",
+    "studio":"20th Century Fox",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":64575175,
+    "tickets":8112459
+  },
+  {
+    "rank":46,
+    "title":"Pitch Perfect",
+    "releasedOn":"10/5/12",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":64527103,
+    "tickets":8106419
+  },
+  {
+    "rank":47,
+    "title":"Hope Springs",
+    "releasedOn":"8/8/12",
+    "studio":"Sony Pictures",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":63536011,
+    "tickets":7981910
+  },
+  {
+    "rank":48,
+    "title":"Underworld: Awakening",
+    "releasedOn":"1/20/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":62321039,
+    "tickets":7829276
+  },
+  {
+    "rank":49,
+    "title":"The Lucky One",
+    "releasedOn":"4/20/12",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":60457138,
+    "tickets":7595117
+  },
+  {
+    "rank":50,
+    "title":"Mission: Impossible - Ghost Protocol",
+    "releasedOn":"12/16/11",
+    "studio":"Paramount Pictures",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":59696991,
+    "tickets":7499621
+  },
+  {
+    "rank":51,
+    "title":"The Dictator",
+    "releasedOn":"5/16/12",
+    "studio":"Paramount Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":59650222,
+    "tickets":7493746
+  },
+  {
+    "rank":52,
+    "title":"Total Recall",
+    "releasedOn":"8/3/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":58877969,
+    "tickets":7396729
+  },
+  {
+    "rank":53,
+    "title":"Titanic",
+    "releasedOn":"4/4/12",
+    "studio":"Paramount Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":57885250,
+    "tickets":7272016
+  },
+  {
+    "rank":54,
+    "title":"American Reunion",
+    "releasedOn":"4/6/12",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":56758835,
+    "tickets":7130506
+  },
+  {
+    "rank":55,
+    "title":"ParaNorman",
+    "releasedOn":"8/17/12",
+    "studio":"Focus Features",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":56003051,
+    "tickets":7035559
+  },
+  {
+    "rank":56,
+    "title":"Jack Reacher",
+    "releasedOn":"12/21/12",
+    "studio":"Paramount Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":55504341,
+    "tickets":6972907
+  },
+  {
+    "rank":57,
+    "title":"This Means War",
+    "releasedOn":"2/17/12",
+    "studio":"20th Century Fox",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":54760791,
+    "tickets":6879496
+  },
+  {
+    "rank":58,
+    "title":"Project X",
+    "releasedOn":"3/2/12",
+    "studio":"Warner Bros.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":54731865,
+    "tickets":6875862
+  },
+  {
+    "rank":59,
+    "title":"The Woman in Black",
+    "releasedOn":"2/3/12",
+    "studio":"CBS Films",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":54333290,
+    "tickets":6825790
+  },
+  {
+    "rank":60,
+    "title":"Paranormal Activity 4",
+    "releasedOn":"10/19/12",
+    "studio":"Paramount Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":53900335,
+    "tickets":6771398
+  },
+  {
+    "rank":61,
+    "title":"The Devil Inside",
+    "releasedOn":"1/6/12",
+    "studio":"Paramount Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":53261944,
+    "tickets":6691198
+  },
+  {
+    "rank":62,
+    "title":"The Odd Life of Timothy Green",
+    "releasedOn":"8/15/12",
+    "studio":"Walt Disney",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":51778216,
+    "tickets":6504801
+  },
+  {
+    "rank":63,
+    "title":"Ghost Rider: Spirit of Vengeance",
+    "releasedOn":"2/17/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":51774002,
+    "tickets":6504271
+  },
+  {
+    "rank":64,
+    "title":"The Grey",
+    "releasedOn":"1/27/12",
+    "studio":"Open Road",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":51580136,
+    "tickets":6479916
+  },
+  {
+    "rank":65,
+    "title":"Red Tails",
+    "releasedOn":"1/20/12",
+    "studio":"20th Century Fox",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":49876377,
+    "tickets":6265876
+  },
+  {
+    "rank":66,
+    "title":"The Possession",
+    "releasedOn":"8/31/12",
+    "studio":"Lionsgate",
+    "genre":"Horror",
+    "rating":"PG-13",
+    "revenue":49130588,
+    "tickets":6172184
+  },
+  {
+    "rank":67,
+    "title":"Diary of a Wimpy Kid: Dog Days",
+    "releasedOn":"8/3/12",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":49008662,
+    "tickets":6156867
+  },
+  {
+    "rank":68,
+    "title":"Sinister",
+    "releasedOn":"10/12/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":48086903,
+    "tickets":6041068
+  },
+  {
+    "rank":69,
+    "title":"Savages",
+    "releasedOn":"7/6/12",
+    "studio":"Universal",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":47323100,
+    "tickets":5945113
+  },
+  {
+    "rank":70,
+    "title":"The Best Exotic Marigold Hotel",
+    "releasedOn":"5/4/12",
+    "studio":"Fox Searchlight",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":46383639,
+    "tickets":5827090
+  },
+  {
+    "rank":71,
+    "title":"This is 40",
+    "releasedOn":"12/21/12",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":45901845,
+    "tickets":5766563
+  },
+  {
+    "rank":72,
+    "title":"Moonrise Kingdom",
+    "releasedOn":"5/25/12",
+    "studio":"Focus Features",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":45512466,
+    "tickets":5717646
+  },
+  {
+    "rank":73,
+    "title":"The Three Stooges",
+    "releasedOn":"4/13/12",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":44338224,
+    "tickets":5570128
+  },
+  {
+    "rank":74,
+    "title":"Here Comes the Boom",
+    "releasedOn":"10/12/12",
+    "studio":"Sony Pictures",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":43819366,
+    "tickets":5504945
+  },
+  {
+    "rank":75,
+    "title":"Red Dawn",
+    "releasedOn":"11/21/12",
+    "studio":"Open Road",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":43695770,
+    "tickets":5489418
+  },
+  {
+    "rank":76,
+    "title":"Sherlock Holmes: A Game of Shadows",
+    "releasedOn":"12/16/11",
+    "studio":"Warner Bros.",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":43488357,
+    "tickets":5463361
+  },
+  {
+    "rank":77,
+    "title":"Star Wars: The Phantom Menace 3D",
+    "releasedOn":"2/10/12",
+    "studio":"20th Century Fox",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":43479233,
+    "tickets":5462215
+  },
+  {
+    "rank":78,
+    "title":"Parental Guidance",
+    "releasedOn":"12/25/12",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":42635079,
+    "tickets":5356165
+  },
+  {
+    "rank":79,
+    "title":"Resident Evil: Retribution",
+    "releasedOn":"9/14/12",
+    "studio":"Sony Pictures",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":42345531,
+    "tickets":5319790
+  },
+  {
+    "rank":80,
+    "title":"The Cabin in the Woods",
+    "releasedOn":"4/13/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":42073277,
+    "tickets":5285587
+  },
+  {
+    "rank":81,
+    "title":"The Descendants",
+    "releasedOn":"12/9/11",
+    "studio":"Fox Searchlight",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":41248398,
+    "tickets":5181959
+  },
+  {
+    "rank":82,
+    "title":"What to Expect When You're Expecting",
+    "releasedOn":"5/18/12",
+    "studio":"Lionsgate",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":41152203,
+    "tickets":5169874
+  },
+  {
+    "rank":83,
+    "title":"End of Watch",
+    "releasedOn":"9/21/12",
+    "studio":"Open Road",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":40824713,
+    "tickets":5128732
+  },
+  {
+    "rank":84,
+    "title":"Finding Nemo 3D",
+    "releasedOn":"9/14/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"G",
+    "revenue":40767633,
+    "tickets":5121561
+  },
+  {
+    "rank":85,
+    "title":"The Artist",
+    "releasedOn":"1/20/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":38689594,
+    "tickets":4860501
+  },
+  {
+    "rank":86,
+    "title":"Rock of Ages",
+    "releasedOn":"6/15/12",
+    "studio":"Warner Bros.",
+    "genre":"Musical",
+    "rating":"R",
+    "revenue":38518613,
+    "tickets":4839021
+  },
+  {
+    "rank":87,
+    "title":"Abraham Lincoln: Vampire Hunter",
+    "releasedOn":"6/22/12",
+    "studio":"20th Century Fox",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":37519139,
+    "tickets":4713459
+  },
+  {
+    "rank":88,
+    "title":"Lawless",
+    "releasedOn":"8/29/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":37397291,
+    "tickets":4698152
+  },
+  {
+    "rank":89,
+    "title":"The Girl with the Dragon Tattoo",
+    "releasedOn":"12/20/11",
+    "studio":"Sony Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":36979879,
+    "tickets":4645713
+  },
+  {
+    "rank":90,
+    "title":"That's My Boy",
+    "releasedOn":"6/15/12",
+    "studio":"Sony Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":36931089,
+    "tickets":4639584
+  },
+  {
+    "rank":91,
+    "title":"Trouble with the Curve",
+    "releasedOn":"9/21/12",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":35763137,
+    "tickets":4492856
+  },
+  {
+    "rank":92,
+    "title":"Step Up Revolution",
+    "releasedOn":"7/27/12",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":35074677,
+    "tickets":4406366
+  },
+  {
+    "rank":93,
+    "title":"Tyler Perry's Good Deeds",
+    "releasedOn":"2/24/12",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":35025791,
+    "tickets":4400225
+  },
+  {
+    "rank":94,
+    "title":"Frankenweenie",
+    "releasedOn":"10/5/12",
+    "studio":"Walt Disney",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":34485378,
+    "tickets":4332333
+  },
+  {
+    "rank":95,
+    "title":"The Watch",
+    "releasedOn":"7/27/12",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":34353000,
+    "tickets":4315703
+  },
+  {
+    "rank":96,
+    "title":"2016: Obama's America",
+    "releasedOn":"7/13/12",
+    "studio":"Rocky Mountain Pictures",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":33349941,
+    "tickets":4189691
+  },
+  {
+    "rank":97,
+    "title":"War Horse",
+    "releasedOn":"12/25/11",
+    "studio":"Walt Disney",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":31658147,
+    "tickets":3977154
+  },
+  {
+    "rank":98,
+    "title":"House at the End of the Street",
+    "releasedOn":"9/21/12",
+    "studio":"Relativity",
+    "genre":"Horror",
+    "rating":"PG-13",
+    "revenue":31611916,
+    "tickets":3971346
+  },
+  {
+    "rank":99,
+    "title":"Extremely Loud and Incredibly Close",
+    "releasedOn":"12/25/11",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":31448337,
+    "tickets":3950796
+  },
+  {
+    "rank":100,
+    "title":"Silver Linings Playbook",
+    "releasedOn":"11/16/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":31060059,
+    "tickets":3902017
+  },
+  {
+    "rank":101,
+    "title":"The Pirates! Band of Misfits",
+    "releasedOn":"4/27/12",
+    "studio":"Sony Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":31051126,
+    "tickets":3900895
+  },
+  {
+    "rank":102,
+    "title":"Alvin and the Chipmunks: Chipwrecked",
+    "releasedOn":"12/16/11",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"G",
+    "revenue":31018935,
+    "tickets":3896851
+  },
+  {
+    "rank":103,
+    "title":"Joyful Noise",
+    "releasedOn":"1/13/12",
+    "studio":"Warner Bros.",
+    "genre":"Musical",
+    "rating":"PG-13",
+    "revenue":30932113,
+    "tickets":3885943
+  },
+  {
+    "rank":104,
+    "title":"The Iron Lady",
+    "releasedOn":"1/13/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":29615141,
+    "tickets":3720495
+  },
+  {
+    "rank":105,
+    "title":"Chimpanzee",
+    "releasedOn":"4/20/12",
+    "studio":"Walt Disney",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":28965459,
+    "tickets":3638876
+  },
+  {
+    "rank":106,
+    "title":"The Five-Year Engagement",
+    "releasedOn":"4/27/12",
+    "studio":"Universal",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":28700285,
+    "tickets":3605563
+  },
+  {
+    "rank":107,
+    "title":"We Bought a Zoo",
+    "releasedOn":"11/26/11",
+    "studio":"20th Century Fox",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":27530441,
+    "tickets":3458598
+  },
+  {
+    "rank":108,
+    "title":"Cloud Atlas",
+    "releasedOn":"10/26/12",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":26800689,
+    "tickets":3366920
+  },
+  {
+    "rank":109,
+    "title":"The Guilt Trip",
+    "releasedOn":"12/19/12",
+    "studio":"Paramount Pictures",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":26676934,
+    "tickets":3351373
+  },
+  {
+    "rank":110,
+    "title":"One for the Money",
+    "releasedOn":"1/27/12",
+    "studio":"Lionsgate",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":26414527,
+    "tickets":3318407
+  },
+  {
+    "rank":111,
+    "title":"Alex Cross",
+    "releasedOn":"10/19/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":25888412,
+    "tickets":3252313
+  },
+  {
+    "rank":112,
+    "title":"Katy Perry: Part of Me 3D",
+    "releasedOn":"7/5/12",
+    "studio":"Paramount Pictures",
+    "genre":"Concert/Performance",
+    "rating":"PG",
+    "revenue":25326071,
+    "tickets":3181667
+  },
+  {
+    "rank":113,
+    "title":"Sparkle",
+    "releasedOn":"8/17/12",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":24397469,
+    "tickets":3065008
+  },
+  {
+    "rank":114,
+    "title":"Monsters, Inc. 3D",
+    "releasedOn":"12/19/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"G",
+    "revenue":23993649,
+    "tickets":3014277
+  },
+  {
+    "rank":115,
+    "title":"Hugo",
+    "releasedOn":"11/23/11",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":22834350,
+    "tickets":2868636
+  },
+  {
+    "rank":116,
+    "title":"The Adventures of Tintin",
+    "releasedOn":"12/21/11",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":22311556,
+    "tickets":2802959
+  },
+  {
+    "rank":117,
+    "title":"Premium Rush",
+    "releasedOn":"8/24/12",
+    "studio":"Sony Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":20275446,
+    "tickets":2547166
+  },
+  {
+    "rank":118,
+    "title":"Big Miracle",
+    "releasedOn":"2/3/12",
+    "studio":"Universal",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":20157300,
+    "tickets":2532324
+  },
+  {
+    "rank":119,
+    "title":"Tinker Tailor Soldier Spy",
+    "releasedOn":"1/6/12",
+    "studio":"Focus Features",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":19498244,
+    "tickets":2449528
+  },
+  {
+    "rank":120,
+    "title":"The Secret World of Arrietty",
+    "releasedOn":"2/17/12",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"G",
+    "revenue":19192510,
+    "tickets":2411119
+  },
+  {
+    "rank":121,
+    "title":"Haywire",
+    "releasedOn":"1/20/12",
+    "studio":"Relativity",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":18942396,
+    "tickets":2379697
+  },
+  {
+    "rank":122,
+    "title":"Man on a Ledge",
+    "releasedOn":"1/27/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":18620000,
+    "tickets":2339195
+  },
+  {
+    "rank":123,
+    "title":"A Thousand Words",
+    "releasedOn":"3/9/12",
+    "studio":"Paramount Pictures",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":18450127,
+    "tickets":2317855
+  },
+  {
+    "rank":124,
+    "title":"Chernobyl Diaries",
+    "releasedOn":"5/25/12",
+    "studio":"Warner Bros.",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":18119640,
+    "tickets":2276336
+  },
+  {
+    "rank":125,
+    "title":"Raiders of the Lost Ark",
+    "releasedOn":"9/7/12",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":17830891,
+    "tickets":2240061
+  },
+  {
+    "rank":126,
+    "title":"Silent Hill: Revelation 3D",
+    "releasedOn":"10/26/12",
+    "studio":"Open Road",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":17530219,
+    "tickets":2202288
+  },
+  {
+    "rank":127,
+    "title":"The Perks of Being a Wallflower",
+    "releasedOn":"9/21/12",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":17398290,
+    "tickets":2185714
+  },
+  {
+    "rank":128,
+    "title":"Wanderlust",
+    "releasedOn":"2/24/12",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":17288155,
+    "tickets":2171878
+  },
+  {
+    "rank":129,
+    "title":"Safe",
+    "releasedOn":"4/27/12",
+    "studio":"Lionsgate",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":17142080,
+    "tickets":2153527
+  },
+  {
+    "rank":130,
+    "title":"To Rome with Love",
+    "releasedOn":"6/22/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":16684352,
+    "tickets":2096024
+  },
+  {
+    "rank":131,
+    "title":"The Raven",
+    "releasedOn":"4/27/12",
+    "studio":"Relativity",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":16008272,
+    "tickets":2011089
+  },
+  {
+    "rank":132,
+    "title":"The Master",
+    "releasedOn":"9/14/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":15933452,
+    "tickets":2001689
+  },
+  {
+    "rank":133,
+    "title":"The Man with the Iron Fists",
+    "releasedOn":"11/2/12",
+    "studio":"Universal",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":15634090,
+    "tickets":1964081
+  },
+  {
+    "rank":134,
+    "title":"Seven Psychopaths",
+    "releasedOn":"10/12/12",
+    "studio":"CBS Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":15024049,
+    "tickets":1887443
+  },
+  {
+    "rank":135,
+    "title":"Killing Them Softly",
+    "releasedOn":"11/30/12",
+    "studio":"Weinstein Co.",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":14863824,
+    "tickets":1867314
+  },
+  {
+    "rank":136,
+    "title":"Lockout",
+    "releasedOn":"4/13/12",
+    "studio":"Open Road",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":14326865,
+    "tickets":1799857
+  },
+  {
+    "rank":137,
+    "title":"Hit & Run",
+    "releasedOn":"8/22/12",
+    "studio":"Open Road",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":13749300,
+    "tickets":1727298
+  },
+  {
+    "rank":138,
+    "title":"Dredd",
+    "releasedOn":"9/21/12",
+    "studio":"Lionsgate",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":13414714,
+    "tickets":1685265
+  },
+  {
+    "rank":139,
+    "title":"The Intouchables",
+    "releasedOn":"5/25/12",
+    "studio":"Weinstein Co.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":13094646,
+    "tickets":1645056
+  },
+  {
+    "rank":140,
+    "title":"Playing for Keeps",
+    "releasedOn":"12/7/12",
+    "studio":"FilmDistrict",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":12798463,
+    "tickets":1607847
+  },
+  {
+    "rank":141,
+    "title":"Silent House",
+    "releasedOn":"3/9/12",
+    "studio":"Open Road",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":12739737,
+    "tickets":1600469
+  },
+  {
+    "rank":142,
+    "title":"People Like Us",
+    "releasedOn":"6/29/12",
+    "studio":"Walt Disney",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":12431792,
+    "tickets":1561782
+  },
+  {
+    "rank":143,
+    "title":"Gone",
+    "releasedOn":"2/24/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":11682205,
+    "tickets":1467613
+  },
+  {
+    "rank":144,
+    "title":"The Words",
+    "releasedOn":"9/7/12",
+    "studio":"CBS Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":11494838,
+    "tickets":1444075
+  },
+  {
+    "rank":145,
+    "title":"Beasts of the Southern Wild",
+    "releasedOn":"6/27/12",
+    "studio":"Fox Searchlight",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":11249128,
+    "tickets":1413207
+  },
+  {
+    "rank":146,
+    "title":"Anna Karenina",
+    "releasedOn":"11/16/12",
+    "studio":"Focus Features",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":11173609,
+    "tickets":1403719
+  },
+  {
+    "rank":147,
+    "title":"To the Arctic 3D",
+    "releasedOn":"4/20/12",
+    "studio":"Warner Bros.",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":10585125,
+    "tickets":1329789
+  },
+  {
+    "rank":148,
+    "title":"Cirque du Soleil: Worlds Away",
+    "releasedOn":"12/21/12",
+    "studio":"Paramount Pictures",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":9592930,
+    "tickets":1205141
+  },
+  {
+    "rank":149,
+    "title":"Fun Size",
+    "releasedOn":"10/26/12",
+    "studio":"Paramount Pictures",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":9409538,
+    "tickets":1182102
+  },
+  {
+    "rank":150,
+    "title":"Bernie",
+    "releasedOn":"4/27/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Black Comedy",
+    "rating":"PG-13",
+    "revenue":9204489,
+    "tickets":1156342
+  },
+  {
+    "rank":151,
+    "title":"Salmon Fishing in the Yemen",
+    "releasedOn":"3/9/12",
+    "studio":"CBS Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":9041540,
+    "tickets":1135871
+  },
+  {
+    "rank":152,
+    "title":"Arbitrage",
+    "releasedOn":"9/14/12",
+    "studio":"Roadside Attractions",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":7913437,
+    "tickets":994150
+  },
+  {
+    "rank":153,
+    "title":"Friends with Kids",
+    "releasedOn":"3/9/12",
+    "studio":"Roadside Attractions",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":7251073,
+    "tickets":910938
+  },
+  {
+    "rank":154,
+    "title":"Seeking a Friend for the End of the World",
+    "releasedOn":"6/22/12",
+    "studio":"Focus Features",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":7078738,
+    "tickets":889288
+  },
+  {
+    "rank":155,
+    "title":"In Darkness",
+    "releasedOn":"2/10/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":6994218,
+    "tickets":878670
+  },
+  {
+    "rank":156,
+    "title":"A Separation",
+    "releasedOn":"12/30/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":6993084,
+    "tickets":878528
+  },
+  {
+    "rank":157,
+    "title":"The Collection",
+    "releasedOn":"11/30/12",
+    "studio":"LD Distribution",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":6810754,
+    "tickets":855622
+  },
+  {
+    "rank":158,
+    "title":"Born to be Wild 3D",
+    "releasedOn":"4/8/11",
+    "studio":"Warner Bros.",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":6420519,
+    "tickets":806597
+  },
+  {
+    "rank":159,
+    "title":"Chasing Mavericks",
+    "releasedOn":"10/26/12",
+    "studio":"20th Century Fox",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":5957259,
+    "tickets":748399
+  },
+  {
+    "rank":160,
+    "title":"Casa de mi Padre",
+    "releasedOn":"3/16/12",
+    "studio":"Pantelion Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":5909483,
+    "tickets":742397
+  },
+  {
+    "rank":161,
+    "title":"The Darkest Hour",
+    "releasedOn":"12/25/11",
+    "studio":"Summit Entertainment",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":5877205,
+    "tickets":738342
+  },
+  {
+    "rank":162,
+    "title":"New Year's Eve",
+    "releasedOn":"12/9/11",
+    "studio":"Warner Bros.",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":5783841,
+    "tickets":726613
+  },
+  {
+    "rank":163,
+    "title":"For Greater Glory",
+    "releasedOn":"6/1/12",
+    "studio":"ARC Entertainment",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":5669081,
+    "tickets":712196
+  },
+  {
+    "rank":164,
+    "title":"The Sessions",
+    "releasedOn":"10/19/12",
+    "studio":"Fox Searchlight",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":5574991,
+    "tickets":700375
+  },
+  {
+    "rank":165,
+    "title":"Hitchcock",
+    "releasedOn":"11/23/12",
+    "studio":"Fox Searchlight",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":5337378,
+    "tickets":670524
+  },
+  {
+    "rank":166,
+    "title":"Won't Back Down",
+    "releasedOn":"9/28/12",
+    "studio":"20th Century Fox",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":5310554,
+    "tickets":667155
+  },
+  {
+    "rank":167,
+    "title":"October Baby",
+    "releasedOn":"3/23/12",
+    "studio":"Five & Two Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":5203895,
+    "tickets":653755
+  },
+  {
+    "rank":168,
+    "title":"Hubble 3D",
+    "releasedOn":"3/19/10",
+    "studio":"Warner Bros.",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":5020006,
+    "tickets":630654
+  },
+  {
+    "rank":169,
+    "title":"My Week with Marilyn",
+    "releasedOn":"11/23/11",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":4966392,
+    "tickets":623918
+  },
+  {
+    "rank":170,
+    "title":"The Apparition",
+    "releasedOn":"8/24/12",
+    "studio":"Warner Bros.",
+    "genre":"Horror",
+    "rating":"PG-13",
+    "revenue":4936819,
+    "tickets":620203
+  },
+  {
+    "rank":171,
+    "title":"The Muppets",
+    "releasedOn":"11/23/11",
+    "studio":"Walt Disney",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":4423016,
+    "tickets":555655
+  },
+  {
+    "rank":172,
+    "title":"The Twilight Saga: Breaking Dawn, Part 1",
+    "releasedOn":"11/18/11",
+    "studio":"Summit Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":4343495,
+    "tickets":545665
+  },
+  {
+    "rank":173,
+    "title":"Jeff Who Lives at Home",
+    "releasedOn":"3/16/12",
+    "studio":"Paramount Vantage",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":4269426,
+    "tickets":536360
+  },
+  {
+    "rank":174,
+    "title":"Goon",
+    "releasedOn":"2/24/12",
+    "studio":"Alliance Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":4164911,
+    "tickets":523230
+  },
+  {
+    "rank":175,
+    "title":"The Raid: Redemption",
+    "releasedOn":"3/23/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":4105123,
+    "tickets":515718
+  },
+  {
+    "rank":176,
+    "title":"Safety Not Guaranteed",
+    "releasedOn":"6/8/12",
+    "studio":"FilmDistrict",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":4010957,
+    "tickets":503889
+  },
+  {
+    "rank":177,
+    "title":"A Dangerous Method",
+    "releasedOn":"11/23/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":3905185,
+    "tickets":490601
+  },
+  {
+    "rank":178,
+    "title":"The Cold Light of Day",
+    "releasedOn":"9/7/12",
+    "studio":"Lionsgate",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":3763583,
+    "tickets":472811
+  },
+  {
+    "rank":179,
+    "title":"Bully",
+    "releasedOn":"3/30/12",
+    "studio":"Weinstein Co.",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":3483795,
+    "tickets":437662
+  },
+  {
+    "rank":180,
+    "title":"Nitro Circus: The Movie 3D",
+    "releasedOn":"8/8/12",
+    "studio":"ARC Entertainment",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":3377000,
+    "tickets":424246
+  },
+  {
+    "rank":181,
+    "title":"Hysteria",
+    "releasedOn":"5/18/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":3337194,
+    "tickets":419245
+  },
+  {
+    "rank":182,
+    "title":"Atlas Shrugged: Part II",
+    "releasedOn":"10/12/12",
+    "studio":"Atlas Distribution",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":3336053,
+    "tickets":419102
+  },
+  {
+    "rank":183,
+    "title":"Last Ounce of Courage",
+    "releasedOn":"9/14/12",
+    "studio":"Rocky Mountain Pictures",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":3310439,
+    "tickets":415884
+  },
+  {
+    "rank":184,
+    "title":"Robot and Frank",
+    "releasedOn":"8/17/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":3298428,
+    "tickets":414375
+  },
+  {
+    "rank":185,
+    "title":"Puss in Boots",
+    "releasedOn":"10/28/11",
+    "studio":"Paramount Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":3250679,
+    "tickets":408376
+  },
+  {
+    "rank":186,
+    "title":"Pina",
+    "releasedOn":"12/23/11",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":3219417,
+    "tickets":404449
+  },
+  {
+    "rank":187,
+    "title":"Celeste and Jesse Forever",
+    "releasedOn":"8/3/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":3103407,
+    "tickets":389875
+  },
+  {
+    "rank":188,
+    "title":"Jab Tak Hai Jaan",
+    "releasedOn":"11/13/12",
+    "studio":"Yash Raj Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":3047539,
+    "tickets":382856
+  },
+  {
+    "rank":189,
+    "title":"Searching for Sugar Man",
+    "releasedOn":"7/27/12",
+    "studio":"Mongrel Media",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":3031944,
+    "tickets":380897
+  },
+  {
+    "rank":190,
+    "title":"The Sitter",
+    "releasedOn":"12/9/11",
+    "studio":"20th Century Fox",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":2974431,
+    "tickets":373672
+  },
+  {
+    "rank":191,
+    "title":"Flying Monsters 3D",
+    "releasedOn":"10/6/11",
+    "studio":"National Geographic Entertainment",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":2927140,
+    "tickets":367731
+  },
+  {
+    "rank":192,
+    "title":"Happy Feet 2",
+    "releasedOn":"11/18/11",
+    "studio":"Warner Bros.",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":2876857,
+    "tickets":361414
+  },
+  {
+    "rank":193,
+    "title":"Young Adult",
+    "releasedOn":"12/9/11",
+    "studio":"Paramount Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":2845067,
+    "tickets":357420
+  },
+  {
+    "rank":194,
+    "title":"Barfi",
+    "releasedOn":"9/14/12",
+    "studio":"UTV Communications",
+    "genre":"Romantic Comedy",
+    "rating":"Not Rated",
+    "revenue":2804874,
+    "tickets":352371
+  },
+  {
+    "rank":195,
+    "title":"The Met: Live in HD - Aida",
+    "releasedOn":"12/15/12",
+    "studio":"NCM Fathom",
+    "genre":"Concert/Performance",
+    "rating":"Not Rated",
+    "revenue":2800000,
+    "tickets":351758
+  },
+  {
+    "rank":196,
+    "title":"Talaash",
+    "releasedOn":"11/30/12",
+    "studio":"Reliance Big Pictures",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":2706375,
+    "tickets":339996
+  },
+  {
+    "rank":197,
+    "title":"Samsara",
+    "releasedOn":"8/24/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":2627326,
+    "tickets":330066
+  },
+  {
+    "rank":198,
+    "title":"Girl in Progress",
+    "releasedOn":"5/11/12",
+    "studio":"Pantelion Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":2609412,
+    "tickets":327815
+  },
+  {
+    "rank":199,
+    "title":"Jiro Dreams of Sushi",
+    "releasedOn":"3/9/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":2552478,
+    "tickets":320663
+  },
+  {
+    "rank":200,
+    "title":"Ruby Sparks",
+    "releasedOn":"7/25/12",
+    "studio":"Fox Searchlight",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":2540106,
+    "tickets":319108
+  },
+  {
+    "rank":201,
+    "title":"Omerta",
+    "releasedOn":"7/11/12",
+    "studio":"Alliance Films",
+    "genre":"Thriller/Suspense",
+    "rating":"Not Rated",
+    "revenue":2462588,
+    "tickets":309370
+  },
+  {
+    "rank":202,
+    "title":"The Queen of Versailles",
+    "releasedOn":"7/20/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":2401999,
+    "tickets":301758
+  },
+  {
+    "rank":203,
+    "title":"Gerhard Richter Painting",
+    "releasedOn":"3/14/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":2374911,
+    "tickets":298355
+  },
+  {
+    "rank":204,
+    "title":"Ek Tha Tiger",
+    "releasedOn":"8/15/12",
+    "studio":"Yash Raj Films",
+    "genre":"Thriller/Suspense",
+    "rating":"Not Rated",
+    "revenue":2347774,
+    "tickets":294946
+  },
+  {
+    "rank":205,
+    "title":"Jack and Jill",
+    "releasedOn":"11/11/11",
+    "studio":"Sony Pictures",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":2345071,
+    "tickets":294606
+  },
+  {
+    "rank":206,
+    "title":"Sleepwalk With Me",
+    "releasedOn":"8/24/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":2266066,
+    "tickets":284681
+  },
+  {
+    "rank":207,
+    "title":"Hyde Park on Hudson",
+    "releasedOn":"12/7/12",
+    "studio":"Focus Features",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":2178603,
+    "tickets":273693
+  },
+  {
+    "rank":208,
+    "title":"Under the Sea 3D",
+    "releasedOn":"2/13/09",
+    "studio":"Warner Bros.",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":2141337,
+    "tickets":269012
+  },
+  {
+    "rank":209,
+    "title":"Carnage",
+    "releasedOn":"12/16/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":2125560,
+    "tickets":267030
+  },
+  {
+    "rank":210,
+    "title":"Space Station",
+    "releasedOn":"4/19/02",
+    "studio":"IMAX Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":2045739,
+    "tickets":257002
+  },
+  {
+    "rank":211,
+    "title":"Footnote",
+    "releasedOn":"3/9/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":2007451,
+    "tickets":252192
+  },
+  {
+    "rank":212,
+    "title":"Agneepath",
+    "releasedOn":"1/6/12",
+    "studio":"Eros Entertainment",
+    "genre":"Action",
+    "rating":"Not Rated",
+    "revenue":1973574,
+    "tickets":247936
+  },
+  {
+    "rank":213,
+    "title":"English Vinglish",
+    "releasedOn":"9/28/12",
+    "studio":"Eros Entertainment",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":1862086,
+    "tickets":233930
+  },
+  {
+    "rank":214,
+    "title":"Shame",
+    "releasedOn":"12/2/11",
+    "studio":"Fox Searchlight",
+    "genre":"Drama",
+    "rating":"NC-17",
+    "revenue":1845683,
+    "tickets":231869
+  },
+  {
+    "rank":215,
+    "title":"Crooked Arrows",
+    "releasedOn":"5/18/12",
+    "studio":"Branded Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":1832541,
+    "tickets":230218
+  },
+  {
+    "rank":216,
+    "title":"Monsieur Lazhar",
+    "releasedOn":"4/13/12",
+    "studio":"Music Box Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":1810703,
+    "tickets":227475
+  },
+  {
+    "rank":217,
+    "title":"Zero Dark Thirty",
+    "releasedOn":"12/19/12",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1710132,
+    "tickets":214840
+  },
+  {
+    "rank":218,
+    "title":"2012 Oscar Shorts",
+    "releasedOn":"2/10/12",
+    "studio":"Shorts International",
+    "genre":"Multiple Genres",
+    "rating":"Not Rated",
+    "revenue":1702415,
+    "tickets":213871
+  },
+  {
+    "rank":219,
+    "title":"We need to Talk About Kevin",
+    "releasedOn":"1/13/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1699395,
+    "tickets":213491
+  },
+  {
+    "rank":220,
+    "title":"Your Sister's Sister",
+    "releasedOn":"6/15/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1597486,
+    "tickets":200689
+  },
+  {
+    "rank":221,
+    "title":"Housefull 2",
+    "releasedOn":"4/6/12",
+    "studio":"Eros Entertainment",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":1586745,
+    "tickets":199339
+  },
+  {
+    "rank":222,
+    "title":"Marley",
+    "releasedOn":"4/20/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":1413480,
+    "tickets":177572
+  },
+  {
+    "rank":223,
+    "title":"Kid With A Bike",
+    "releasedOn":"3/16/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":1389524,
+    "tickets":174563
+  },
+  {
+    "rank":224,
+    "title":"Farewell, My Queen",
+    "releasedOn":"7/13/12",
+    "studio":"Cohen Media Group",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1329660,
+    "tickets":167042
+  },
+  {
+    "rank":225,
+    "title":"Air Racers 3D",
+    "releasedOn":"4/5/12",
+    "studio":"3D Entertainment",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":1309987,
+    "tickets":164571
+  },
+  {
+    "rank":226,
+    "title":"Woman Thou Art Loosed On the 7th Day",
+    "releasedOn":"4/13/12",
+    "studio":"Codeblack Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":1301562,
+    "tickets":163512
+  },
+  {
+    "rank":227,
+    "title":"Killer Joe",
+    "releasedOn":"7/27/12",
+    "studio":"LD Distribution",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":1291645,
+    "tickets":162266
+  },
+  {
+    "rank":228,
+    "title":"Bol Bachchan",
+    "releasedOn":"7/6/12",
+    "studio":"Fox International",
+    "genre":"",
+    "rating":"PG",
+    "revenue":1257892,
+    "tickets":158026
+  },
+  {
+    "rank":229,
+    "title":"For a Good Time, Call",
+    "releasedOn":"8/31/12",
+    "studio":"Focus Features",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":1251749,
+    "tickets":157254
+  },
+  {
+    "rank":230,
+    "title":"Take This Waltz",
+    "releasedOn":"6/29/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1239692,
+    "tickets":155740
+  },
+  {
+    "rank":231,
+    "title":"Headhunters",
+    "releasedOn":"4/27/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":1200010,
+    "tickets":150755
+  },
+  {
+    "rank":232,
+    "title":"A Late Quartet",
+    "releasedOn":"11/2/12",
+    "studio":"Entertainment One",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1165521,
+    "tickets":146422
+  },
+  {
+    "rank":233,
+    "title":"The Other Son",
+    "releasedOn":"10/26/12",
+    "studio":"Cohen Media Group",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":1160006,
+    "tickets":145729
+  },
+  {
+    "rank":234,
+    "title":"Ek Main Aur Ekk Tu",
+    "releasedOn":"2/10/12",
+    "studio":"UTV Communications",
+    "genre":"Romantic Comedy",
+    "rating":"Not Rated",
+    "revenue":1155545,
+    "tickets":145168
+  },
+  {
+    "rank":235,
+    "title":"Tower Heist",
+    "releasedOn":"11/4/11",
+    "studio":"Universal",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":1152000,
+    "tickets":144723
+  },
+  {
+    "rank":236,
+    "title":"The Deep Blue Sea",
+    "releasedOn":"3/23/12",
+    "studio":"Music Box Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1126027,
+    "tickets":141460
+  },
+  {
+    "rank":237,
+    "title":"The Oogieloves in the BIG Balloon Adventure",
+    "releasedOn":"8/29/12",
+    "studio":"Kenn Viselman Presents",
+    "genre":"Adventure",
+    "rating":"G",
+    "revenue":1065907,
+    "tickets":133907
+  },
+  {
+    "rank":238,
+    "title":"Cocktail",
+    "releasedOn":"7/13/12",
+    "studio":"Eros Entertainment",
+    "genre":"Romantic Comedy",
+    "rating":"Not Rated",
+    "revenue":1027121,
+    "tickets":129035
+  },
+  {
+    "rank":239,
+    "title":"Damsels in Distress",
+    "releasedOn":"4/6/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Black Comedy",
+    "rating":"PG-13",
+    "revenue":1007535,
+    "tickets":126574
+  },
+  {
+    "rank":240,
+    "title":"Rampart",
+    "releasedOn":"11/23/11",
+    "studio":"Millennium Entertainment",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":969239,
+    "tickets":121763
+  },
+  {
+    "rank":241,
+    "title":"Diana Vreeland: The Eye Has to Travel",
+    "releasedOn":"9/21/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":945959,
+    "tickets":118839
+  },
+  {
+    "rank":242,
+    "title":"Masquerade",
+    "releasedOn":"9/21/12",
+    "studio":"CJ Entertainment",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":904240,
+    "tickets":113597
+  },
+  {
+    "rank":243,
+    "title":"The Imposter",
+    "releasedOn":"7/13/12",
+    "studio":"Indomina Releasing",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":901954,
+    "tickets":113310
+  },
+  {
+    "rank":244,
+    "title":"Real Steel",
+    "releasedOn":"10/7/11",
+    "studio":"Walt Disney",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":810351,
+    "tickets":101802
+  },
+  {
+    "rank":245,
+    "title":"Darling Companion",
+    "releasedOn":"4/20/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":793352,
+    "tickets":99667
+  },
+  {
+    "rank":246,
+    "title":"Thin Ice",
+    "releasedOn":"2/17/12",
+    "studio":"ATO Pictures",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":789752,
+    "tickets":99215
+  },
+  {
+    "rank":247,
+    "title":"Coriolanus",
+    "releasedOn":"1/20/12",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":749641,
+    "tickets":94176
+  },
+  {
+    "rank":248,
+    "title":"Cosmopolis",
+    "releasedOn":"8/17/12",
+    "studio":"Entertainment One",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":743636,
+    "tickets":93421
+  },
+  {
+    "rank":249,
+    "title":"Immortals",
+    "releasedOn":"11/11/11",
+    "studio":"Relativity",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":741478,
+    "tickets":93150
+  },
+  {
+    "rank":250,
+    "title":"Unconditional",
+    "releasedOn":"9/21/12",
+    "studio":"Veracity Moving Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":741381,
+    "tickets":93138
+  },
+  {
+    "rank":251,
+    "title":"Deep Sea 3-D",
+    "releasedOn":"3/3/06",
+    "studio":"Warner Bros.",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":726222,
+    "tickets":91233
+  },
+  {
+    "rank":252,
+    "title":"Son of Sardaar",
+    "releasedOn":"11/13/12",
+    "studio":"Eros Entertainment",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":713754,
+    "tickets":89667
+  },
+  {
+    "rank":253,
+    "title":"Rust & Bone",
+    "releasedOn":"11/23/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":702117,
+    "tickets":88205
+  },
+  {
+    "rank":254,
+    "title":"The Paperboy",
+    "releasedOn":"10/5/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":677200,
+    "tickets":85075
+  },
+  {
+    "rank":255,
+    "title":"The Impossible",
+    "releasedOn":"12/21/12",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":657029,
+    "tickets":82541
+  },
+  {
+    "rank":256,
+    "title":"Pariah",
+    "releasedOn":"12/28/11",
+    "studio":"Focus Features",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":646113,
+    "tickets":81169
+  },
+  {
+    "rank":257,
+    "title":"A Royal Affair",
+    "releasedOn":"11/9/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":645501,
+    "tickets":81093
+  },
+  {
+    "rank":258,
+    "title":"2 Days in New York",
+    "releasedOn":"8/10/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":633210,
+    "tickets":79548
+  },
+  {
+    "rank":259,
+    "title":"Chasing Ice",
+    "releasedOn":"11/16/12",
+    "studio":"National Geographic Entertainment",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":612089,
+    "tickets":76895
+  },
+  {
+    "rank":260,
+    "title":"Blue Like Jazz",
+    "releasedOn":"4/13/12",
+    "studio":"Roadside Attractions",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":595018,
+    "tickets":74751
+  },
+  {
+    "rank":261,
+    "title":"Midnight's Children",
+    "releasedOn":"11/2/12",
+    "studio":"Mongrel Media",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":594555,
+    "tickets":74692
+  },
+  {
+    "rank":262,
+    "title":"W.E.",
+    "releasedOn":"12/9/11",
+    "studio":"Weinstein Co.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":582075,
+    "tickets":73125
+  },
+  {
+    "rank":263,
+    "title":"Undefeated",
+    "releasedOn":"2/17/12",
+    "studio":"Weinstein Co.",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":561054,
+    "tickets":70484
+  },
+  {
+    "rank":264,
+    "title":"J. Edgar",
+    "releasedOn":"11/9/11",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":554198,
+    "tickets":69622
+  },
+  {
+    "rank":265,
+    "title":"Peace, Love and Misunderstanding",
+    "releasedOn":"6/8/12",
+    "studio":"IFC Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":542762,
+    "tickets":68186
+  },
+  {
+    "rank":266,
+    "title":"Holy Motors",
+    "releasedOn":"10/17/12",
+    "studio":"Indomina Releasing",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":535204,
+    "tickets":67236
+  },
+  {
+    "rank":267,
+    "title":"The Thieves",
+    "releasedOn":"10/12/12",
+    "studio":"Well Go USA",
+    "genre":"Action",
+    "rating":"Not Rated",
+    "revenue":532699,
+    "tickets":66921
+  },
+  {
+    "rank":268,
+    "title":"Where Do We Go Now",
+    "releasedOn":"5/11/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":531813,
+    "tickets":66810
+  },
+  {
+    "rank":269,
+    "title":"Shut Up and Play the Hits",
+    "releasedOn":"7/18/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":510334,
+    "tickets":64112
+  },
+  {
+    "rank":270,
+    "title":"Moneyball",
+    "releasedOn":"9/23/11",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":505639,
+    "tickets":63522
+  },
+  {
+    "rank":271,
+    "title":"Ai Weiwei: Never Sorry",
+    "releasedOn":"7/27/12",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":489074,
+    "tickets":61441
+  },
+  {
+    "rank":272,
+    "title":"The Flat",
+    "releasedOn":"10/19/12",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":460507,
+    "tickets":57852
+  },
+  {
+    "rank":273,
+    "title":"Bachelorette",
+    "releasedOn":"9/7/12",
+    "studio":"Weinstein Co.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":446770,
+    "tickets":56126
+  },
+  {
+    "rank":274,
+    "title":"Melancholia",
+    "releasedOn":"11/11/11",
+    "studio":"Magnolia Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":442090,
+    "tickets":55538
+  },
+  {
+    "rank":275,
+    "title":"In Time",
+    "releasedOn":"10/28/11",
+    "studio":"20th Century Fox",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":430971,
+    "tickets":54142
+  },
+  {
+    "rank":276,
+    "title":"Midnight in Paris",
+    "releasedOn":"5/20/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":424714,
+    "tickets":53356
+  },
+  {
+    "rank":277,
+    "title":"Seeking Justice",
+    "releasedOn":"3/16/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":411746,
+    "tickets":51726
+  },
+  {
+    "rank":278,
+    "title":"Sound of My Voice",
+    "releasedOn":"4/27/12",
+    "studio":"Fox Searchlight",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":408015,
+    "tickets":51258
+  },
+  {
+    "rank":279,
+    "title":"Khiladi 786",
+    "releasedOn":"12/7/12",
+    "studio":"Eros Entertainment",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":383977,
+    "tickets":48238
+  },
+  {
+    "rank":280,
+    "title":"Detropia",
+    "releasedOn":"9/7/12",
+    "studio":"Loki Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":377219,
+    "tickets":47389
+  },
+  {
+    "rank":281,
+    "title":"Smashed",
+    "releasedOn":"10/12/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":372537,
+    "tickets":46801
+  },
+  {
+    "rank":282,
+    "title":"Bully",
+    "releasedOn":"7/13/01",
+    "studio":"Lionsgate",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":371732,
+    "tickets":46700
+  },
+  {
+    "rank":283,
+    "title":"Piranha 3DD",
+    "releasedOn":"6/1/12",
+    "studio":"Weinstein Co.",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":370904,
+    "tickets":46595
+  },
+  {
+    "rank":284,
+    "title":"Courageous",
+    "releasedOn":"9/30/11",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":369373,
+    "tickets":46403
+  },
+  {
+    "rank":285,
+    "title":"The Oranges",
+    "releasedOn":"10/5/12",
+    "studio":"ATO Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":364875,
+    "tickets":45838
+  },
+  {
+    "rank":286,
+    "title":"Branded",
+    "releasedOn":"9/7/12",
+    "studio":"Roadside Attractions",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":353513,
+    "tickets":44411
+  },
+  {
+    "rank":287,
+    "title":"Promised Land",
+    "releasedOn":"12/28/12",
+    "studio":"Focus Features",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":345528,
+    "tickets":43408
+  },
+  {
+    "rank":288,
+    "title":"Red Hook Summer",
+    "releasedOn":"8/10/12",
+    "studio":"Variance/40 Acres & a Mule Filmworks",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":338803,
+    "tickets":42563
+  },
+  {
+    "rank":289,
+    "title":"A Werewolf Boy",
+    "releasedOn":"11/30/12",
+    "studio":"CJ Entertainment",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":336401,
+    "tickets":42261
+  },
+  {
+    "rank":290,
+    "title":"Student of the Year",
+    "releasedOn":"10/19/12",
+    "studio":"Eros Entertainment",
+    "genre":"Romantic Comedy",
+    "rating":"Not Rated",
+    "revenue":326508,
+    "tickets":41018
+  },
+  {
+    "rank":291,
+    "title":"Compliance",
+    "releasedOn":"8/17/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":319285,
+    "tickets":40111
+  },
+  {
+    "rank":292,
+    "title":"Liberal Arts",
+    "releasedOn":"9/14/12",
+    "studio":"IFC Films",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":319176,
+    "tickets":40097
+  },
+  {
+    "rank":293,
+    "title":"The Flowers of War",
+    "releasedOn":"1/20/12",
+    "studio":"Wrekin Hill Entertainment",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":311434,
+    "tickets":39124
+  },
+  {
+    "rank":294,
+    "title":"Whores' Glory",
+    "releasedOn":"4/27/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":306151,
+    "tickets":38461
+  },
+  {
+    "rank":295,
+    "title":"Stolen",
+    "releasedOn":"9/14/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":289773,
+    "tickets":36403
+  },
+  {
+    "rank":296,
+    "title":"Something From Nothing: The Art of Rap",
+    "releasedOn":"6/15/12",
+    "studio":"Indomina Releasing",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":288738,
+    "tickets":36273
+  },
+  {
+    "rank":297,
+    "title":"A Cat in Paris",
+    "releasedOn":"2/24/12",
+    "studio":"Mongrel Media",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":287709,
+    "tickets":36144
+  },
+  {
+    "rank":298,
+    "title":"Don 2",
+    "releasedOn":"12/22/11",
+    "studio":"Reliance Big Pictures",
+    "genre":"Action",
+    "rating":"Not Rated",
+    "revenue":258949,
+    "tickets":32531
+  },
+  {
+    "rank":299,
+    "title":"The Central Park Five",
+    "releasedOn":"11/23/12",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":257312,
+    "tickets":32325
+  },
+  {
+    "rank":300,
+    "title":"Boy",
+    "releasedOn":"3/2/12",
+    "studio":"Paladin",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":256211,
+    "tickets":32187
+  },
+  {
+    "rank":301,
+    "title":"Chicken with Plums",
+    "releasedOn":"8/17/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":253705,
+    "tickets":31872
+  },
+  {
+    "rank":302,
+    "title":"Lola Versus",
+    "releasedOn":"6/8/12",
+    "studio":"Fox Searchlight",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":252603,
+    "tickets":31734
+  },
+  {
+    "rank":303,
+    "title":"Amour",
+    "releasedOn":"12/19/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":251415,
+    "tickets":31584
+  },
+  {
+    "rank":304,
+    "title":"In The Land of Blood and Honey",
+    "releasedOn":"12/23/11",
+    "studio":"FilmDistrict",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":245485,
+    "tickets":30839
+  },
+  {
+    "rank":305,
+    "title":"Stories We Tell",
+    "releasedOn":"10/12/12",
+    "studio":"Mongrel Media",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":241031,
+    "tickets":30280
+  },
+  {
+    "rank":306,
+    "title":"Trishna",
+    "releasedOn":"7/13/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":240381,
+    "tickets":30198
+  },
+  {
+    "rank":307,
+    "title":"Middle of Nowhere",
+    "releasedOn":"10/12/12",
+    "studio":"AFFRM",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":236806,
+    "tickets":29749
+  },
+  {
+    "rank":308,
+    "title":"My Uncle Rafael",
+    "releasedOn":"9/21/12",
+    "studio":"Slater Brothers Entertainment",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":234830,
+    "tickets":29501
+  },
+  {
+    "rank":309,
+    "title":"The Way",
+    "releasedOn":"10/7/11",
+    "studio":"Producers Distribution Agency",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":219518,
+    "tickets":27577
+  },
+  {
+    "rank":310,
+    "title":"Dolphin Tale",
+    "releasedOn":"9/23/11",
+    "studio":"Warner Bros.",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":216306,
+    "tickets":27174
+  },
+  {
+    "rank":311,
+    "title":"Neil Young Journeys",
+    "releasedOn":"6/29/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Concert/Performance",
+    "rating":"PG",
+    "revenue":214588,
+    "tickets":26958
+  },
+  {
+    "rank":312,
+    "title":"Thaandavam",
+    "releasedOn":"9/28/12",
+    "studio":"UTV Communications",
+    "genre":"Action",
+    "rating":"Not Rated",
+    "revenue":213476,
+    "tickets":26818
+  },
+  {
+    "rank":313,
+    "title":"Back to 1942",
+    "releasedOn":"11/30/12",
+    "studio":"China Lion Film Distribution",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":212475,
+    "tickets":26692
+  },
+  {
+    "rank":314,
+    "title":"Tai Chi Zero",
+    "releasedOn":"10/19/12",
+    "studio":"Variance Films",
+    "genre":"Action",
+    "rating":"PG-13",
+    "revenue":212094,
+    "tickets":26644
+  },
+  {
+    "rank":315,
+    "title":"The Help",
+    "releasedOn":"8/10/11",
+    "studio":"Walt Disney",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":206041,
+    "tickets":25884
+  },
+  {
+    "rank":316,
+    "title":"Drive",
+    "releasedOn":"9/16/11",
+    "studio":"FilmDistrict",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":205312,
+    "tickets":25792
+  },
+  {
+    "rank":317,
+    "title":"Touchback",
+    "releasedOn":"4/13/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":204157,
+    "tickets":25647
+  },
+  {
+    "rank":318,
+    "title":"10 Years",
+    "releasedOn":"9/14/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":203654,
+    "tickets":25584
+  },
+  {
+    "rank":319,
+    "title":"Tim and Eric's Billion Dollar Movie",
+    "releasedOn":"3/2/12",
+    "studio":"Magnet Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":201436,
+    "tickets":25306
+  },
+  {
+    "rank":320,
+    "title":"Brooklyn Castle",
+    "releasedOn":"10/19/12",
+    "studio":"Producers Distribution Agency",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":197423,
+    "tickets":24801
+  },
+  {
+    "rank":321,
+    "title":"Easy Money",
+    "releasedOn":"7/11/12",
+    "studio":"Weinstein Co.",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":188870,
+    "tickets":23727
+  },
+  {
+    "rank":322,
+    "title":"The House I Live In",
+    "releasedOn":"10/5/12",
+    "studio":"Abramorama Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":181782,
+    "tickets":22836
+  },
+  {
+    "rank":323,
+    "title":"Fullmetal Alchemist: The Sacred Star of Milos",
+    "releasedOn":"1/20/12",
+    "studio":"Eleven Arts",
+    "genre":"Adventure",
+    "rating":"Not Rated",
+    "revenue":178000,
+    "tickets":22361
+  },
+  {
+    "rank":324,
+    "title":"The Hunter",
+    "releasedOn":"4/6/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":176669,
+    "tickets":22194
+  },
+  {
+    "rank":325,
+    "title":"The Waiting Room",
+    "releasedOn":"9/21/12",
+    "studio":"International Film Circuit",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":175987,
+    "tickets":22108
+  },
+  {
+    "rank":326,
+    "title":"Flying Swords of Dragon Gate 3D",
+    "releasedOn":"8/31/12",
+    "studio":"Indomina Releasing",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":170276,
+    "tickets":21391
+  },
+  {
+    "rank":327,
+    "title":"War Witch",
+    "releasedOn":"3/1/13",
+    "studio":"TriBeca Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":168028,
+    "tickets":21109
+  },
+  {
+    "rank":328,
+    "title":"The Big Picture",
+    "releasedOn":"10/12/12",
+    "studio":"MPI Media Group",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":158411,
+    "tickets":19900
+  },
+  {
+    "rank":329,
+    "title":"Elles",
+    "releasedOn":"4/27/12",
+    "studio":"Kino Lorber",
+    "genre":"Drama",
+    "rating":"NC-17",
+    "revenue":157427,
+    "tickets":19777
+  },
+  {
+    "rank":330,
+    "title":"Hecho en M�xico",
+    "releasedOn":"11/30/12",
+    "studio":"Pantelion Films",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":151133,
+    "tickets":18986
+  },
+  {
+    "rank":331,
+    "title":"Simon & The Oaks",
+    "releasedOn":"10/12/12",
+    "studio":"Film Arcade",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":150109,
+    "tickets":18857
+  },
+  {
+    "rank":332,
+    "title":"Not Fade Away",
+    "releasedOn":"12/21/12",
+    "studio":"Paramount Vantage",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":146798,
+    "tickets":18441
+  },
+  {
+    "rank":333,
+    "title":"I Wish",
+    "releasedOn":"5/11/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":145808,
+    "tickets":18317
+  },
+  {
+    "rank":334,
+    "title":"'Luv Shuv Tey Chicken Khurana",
+    "releasedOn":"11/2/12",
+    "studio":"UTV Communications",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":143900,
+    "tickets":18077
+  },
+  {
+    "rank":335,
+    "title":"Bullhead",
+    "releasedOn":"2/17/12",
+    "studio":"Drafthouse Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":142616,
+    "tickets":17916
+  },
+  {
+    "rank":336,
+    "title":"This Must Be the Place",
+    "releasedOn":"11/2/12",
+    "studio":"Weinstein Co.",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":142242,
+    "tickets":17869
+  },
+  {
+    "rank":337,
+    "title":"High School",
+    "releasedOn":"6/1/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":139034,
+    "tickets":17466
+  },
+  {
+    "rank":338,
+    "title":"Slaughter Creek",
+    "releasedOn":"9/14/12",
+    "studio":"Nocturnal Features",
+    "genre":"Horror",
+    "rating":"Not Rated",
+    "revenue":136815,
+    "tickets":17187
+  },
+  {
+    "rank":339,
+    "title":"The Lady",
+    "releasedOn":"4/11/12",
+    "studio":"Cohen Media Group",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":135985,
+    "tickets":17083
+  },
+  {
+    "rank":340,
+    "title":"The Other Dream Team",
+    "releasedOn":"9/28/12",
+    "studio":"Film Arcade",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":134109,
+    "tickets":16847
+  },
+  {
+    "rank":341,
+    "title":"The Loneliest Planet",
+    "releasedOn":"10/26/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":129579,
+    "tickets":16278
+  },
+  {
+    "rank":342,
+    "title":"Arthur Christmas",
+    "releasedOn":"11/23/11",
+    "studio":"Sony Pictures",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":124622,
+    "tickets":15656
+  },
+  {
+    "rank":343,
+    "title":"How to Survive a Plague",
+    "releasedOn":"9/21/12",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":123814,
+    "tickets":15554
+  },
+  {
+    "rank":344,
+    "title":"God Bless America",
+    "releasedOn":"5/11/12",
+    "studio":"Magnet Pictures",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":122550,
+    "tickets":15395
+  },
+  {
+    "rank":345,
+    "title":"The Skin I Live In",
+    "releasedOn":"10/14/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":121070,
+    "tickets":15209
+  },
+  {
+    "rank":346,
+    "title":"Bel Ami",
+    "releasedOn":"6/8/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":120462,
+    "tickets":15133
+  },
+  {
+    "rank":347,
+    "title":"Cowgirls n' Angels",
+    "releasedOn":"5/25/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":119782,
+    "tickets":15047
+  },
+  {
+    "rank":348,
+    "title":"On the Road",
+    "releasedOn":"12/21/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":118140,
+    "tickets":14841
+  },
+  {
+    "rank":349,
+    "title":"Any Day Now",
+    "releasedOn":"12/14/12",
+    "studio":"Music Box Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":117292,
+    "tickets":14735
+  },
+  {
+    "rank":350,
+    "title":"Therese Desqueyroux",
+    "releasedOn":"11/30/12",
+    "studio":"Mongrel Media",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":115231,
+    "tickets":14476
+  },
+  {
+    "rank":351,
+    "title":"The Perfect Family",
+    "releasedOn":"5/4/12",
+    "studio":"Variance Films",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":110013,
+    "tickets":13820
+  },
+  {
+    "rank":352,
+    "title":"Burn",
+    "releasedOn":"11/9/12",
+    "studio":"Area 23a",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":109656,
+    "tickets":13775
+  },
+  {
+    "rank":353,
+    "title":"The Woman in the Fifth",
+    "releasedOn":"6/15/12",
+    "studio":"ATO Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":107921,
+    "tickets":13557
+  },
+  {
+    "rank":354,
+    "title":"Hello I Must Be Going",
+    "releasedOn":"9/7/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":106709,
+    "tickets":13405
+  },
+  {
+    "rank":355,
+    "title":"Inch'Allah",
+    "releasedOn":"9/28/12",
+    "studio":"Entertainment One",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":104087,
+    "tickets":13076
+  },
+  {
+    "rank":356,
+    "title":"The Obama Effect",
+    "releasedOn":"7/13/12",
+    "studio":"ARC Entertainment",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":103000,
+    "tickets":12939
+  },
+  {
+    "rank":357,
+    "title":"Wuthering Heights",
+    "releasedOn":"10/5/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":100915,
+    "tickets":12677
+  },
+  {
+    "rank":358,
+    "title":"V/H/S",
+    "releasedOn":"10/5/12",
+    "studio":"Magnet Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":100345,
+    "tickets":12606
+  },
+  {
+    "rank":359,
+    "title":"360",
+    "releasedOn":"8/3/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":100343,
+    "tickets":12605
+  },
+  {
+    "rank":360,
+    "title":"Hardflip",
+    "releasedOn":"6/1/12",
+    "studio":"Rocky Mountain Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":96734,
+    "tickets":12152
+  },
+  {
+    "rank":361,
+    "title":"Footloose",
+    "releasedOn":"10/14/11",
+    "studio":"Paramount Pictures",
+    "genre":"Musical",
+    "rating":"PG-13",
+    "revenue":96238,
+    "tickets":12090
+  },
+  {
+    "rank":362,
+    "title":"The Awakening",
+    "releasedOn":"8/17/12",
+    "studio":"Cohen Media Group",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":95933,
+    "tickets":12051
+  },
+  {
+    "rank":363,
+    "title":"Wild Horse, Wild Ride",
+    "releasedOn":"8/24/12",
+    "studio":"Screen Media Films",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":94621,
+    "tickets":11887
+  },
+  {
+    "rank":364,
+    "title":"The Road",
+    "releasedOn":"5/11/12",
+    "studio":"Freestyle Releasing",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":92476,
+    "tickets":11617
+  },
+  {
+    "rank":365,
+    "title":"Escape Fire: The Fight to Rescue American Healthcare",
+    "releasedOn":"10/5/12",
+    "studio":"Roadside Attractions",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":84898,
+    "tickets":10665
+  },
+  {
+    "rank":366,
+    "title":"Margin Call",
+    "releasedOn":"10/21/11",
+    "studio":"Roadside Attractions",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":84088,
+    "tickets":10563
+  },
+  {
+    "rank":367,
+    "title":"A Very Harold & Kumar 3D Christmas",
+    "releasedOn":"11/4/11",
+    "studio":"Warner Bros.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":83255,
+    "tickets":10459
+  },
+  {
+    "rank":368,
+    "title":"Hating Breitbart",
+    "releasedOn":"10/19/12",
+    "studio":"Freestyle Releasing",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":81432,
+    "tickets":10230
+  },
+  {
+    "rank":369,
+    "title":"Albert Nobbs",
+    "releasedOn":"12/21/11",
+    "studio":"Roadside Attractions",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":80599,
+    "tickets":10125
+  },
+  {
+    "rank":370,
+    "title":"Starlet",
+    "releasedOn":"11/9/12",
+    "studio":"Music Box Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":79895,
+    "tickets":10037
+  },
+  {
+    "rank":371,
+    "title":"The Innkeepers",
+    "releasedOn":"2/3/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":78396,
+    "tickets":9848
+  },
+  {
+    "rank":372,
+    "title":"The Island President",
+    "releasedOn":"3/28/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":75233,
+    "tickets":9451
+  },
+  {
+    "rank":373,
+    "title":"Butter",
+    "releasedOn":"10/5/12",
+    "studio":"Weinstein Co.",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":73000,
+    "tickets":9170
+  },
+  {
+    "rank":374,
+    "title":"The Ides of March",
+    "releasedOn":"10/7/11",
+    "studio":"Sony Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":71199,
+    "tickets":8944
+  },
+  {
+    "rank":375,
+    "title":"On the Ice",
+    "releasedOn":"2/17/12",
+    "studio":"PMK*BNC",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":70526,
+    "tickets":8860
+  },
+  {
+    "rank":376,
+    "title":"My Way",
+    "releasedOn":"4/20/12",
+    "studio":"PMK*BNC",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":70177,
+    "tickets":8816
+  },
+  {
+    "rank":377,
+    "title":"The Details",
+    "releasedOn":"11/2/12",
+    "studio":"Weinstein Co.",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":63595,
+    "tickets":7989
+  },
+  {
+    "rank":378,
+    "title":"Deadfall",
+    "releasedOn":"12/7/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"Not Rated",
+    "revenue":62411,
+    "tickets":7840
+  },
+  {
+    "rank":379,
+    "title":"Martha Marcy May Marlene",
+    "releasedOn":"10/21/11",
+    "studio":"Fox Searchlight",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":61990,
+    "tickets":7787
+  },
+  {
+    "rank":380,
+    "title":"Le pr�nom",
+    "releasedOn":"11/16/12",
+    "studio":"Pathe Contemporary Films",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":61611,
+    "tickets":7740
+  },
+  {
+    "rank":381,
+    "title":"Backwards",
+    "releasedOn":"9/21/12",
+    "studio":"Dada Films",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":61465,
+    "tickets":7721
+  },
+  {
+    "rank":382,
+    "title":"Beyond the Black Rainbow",
+    "releasedOn":"5/18/12",
+    "studio":"Mongrel Media",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":56491,
+    "tickets":7096
+  },
+  {
+    "rank":383,
+    "title":"A Beautiful Soul",
+    "releasedOn":"5/4/12",
+    "studio":"Tyscot Manhaddon",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":54008,
+    "tickets":6784
+  },
+  {
+    "rank":384,
+    "title":"Beware of Mr. Baker",
+    "releasedOn":"11/30/12",
+    "studio":"SnagFilms",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":53087,
+    "tickets":6669
+  },
+  {
+    "rank":385,
+    "title":"An Inconsistant Truth",
+    "releasedOn":"1/27/12",
+    "studio":"Rocky Mountain Pictures",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":52756,
+    "tickets":6627
+  },
+  {
+    "rank":386,
+    "title":"Being Elmo: A Puppeteer's Journey",
+    "releasedOn":"10/21/11",
+    "studio":"Submarine Deluxe",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":50608,
+    "tickets":6357
+  },
+  {
+    "rank":387,
+    "title":"The Fitzgerald Family Christmas",
+    "releasedOn":"12/7/12",
+    "studio":"TriBeca Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":50292,
+    "tickets":6318
+  },
+  {
+    "rank":388,
+    "title":"Red Lights",
+    "releasedOn":"7/13/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":49521,
+    "tickets":6221
+  },
+  {
+    "rank":389,
+    "title":"Wake in Fright",
+    "releasedOn":"10/5/12",
+    "studio":"Drafthouse Films",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":49458,
+    "tickets":6213
+  },
+  {
+    "rank":390,
+    "title":"Take Shelter",
+    "releasedOn":"9/30/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":49347,
+    "tickets":6199
+  },
+  {
+    "rank":391,
+    "title":"Intruders",
+    "releasedOn":"3/30/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":48366,
+    "tickets":6076
+  },
+  {
+    "rank":392,
+    "title":"Deep in the Heart",
+    "releasedOn":"2/17/12",
+    "studio":"ARC Entertainment",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":47700,
+    "tickets":5992
+  },
+  {
+    "rank":393,
+    "title":"Natural Selection",
+    "releasedOn":"3/16/12",
+    "studio":"Cinema Guild",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":46635,
+    "tickets":5858
+  },
+  {
+    "rank":394,
+    "title":"The War of the Buttons",
+    "releasedOn":"10/12/12",
+    "studio":"Weinstein Co.",
+    "genre":"Adventure",
+    "rating":"Not Rated",
+    "revenue":45602,
+    "tickets":5728
+  },
+  {
+    "rank":395,
+    "title":"The Comedy",
+    "releasedOn":"11/9/12",
+    "studio":"TriBeca Films",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":41113,
+    "tickets":5164
+  },
+  {
+    "rank":396,
+    "title":"Last Call at the Oasis",
+    "releasedOn":"5/4/12",
+    "studio":"Participant Media",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":40846,
+    "tickets":5131
+  },
+  {
+    "rank":397,
+    "title":"Miss Bala",
+    "releasedOn":"1/20/12",
+    "studio":"Mongrel Media",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":40540,
+    "tickets":5092
+  },
+  {
+    "rank":398,
+    "title":"All Together",
+    "releasedOn":"10/19/12",
+    "studio":"Kino Lorber",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":40103,
+    "tickets":5038
+  },
+  {
+    "rank":399,
+    "title":"Soldiers of Fortune",
+    "releasedOn":"8/3/12",
+    "studio":"Roadside Attractions",
+    "genre":"",
+    "rating":"R",
+    "revenue":38898,
+    "tickets":4886
+  },
+  {
+    "rank":400,
+    "title":"Paul Williams Still Alive",
+    "releasedOn":"6/1/12",
+    "studio":"Abramorama Films",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":38691,
+    "tickets":4860
+  },
+  {
+    "rank":401,
+    "title":"This Is Not a Film",
+    "releasedOn":"3/2/12",
+    "studio":"Palisades",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":37706,
+    "tickets":4736
+  },
+  {
+    "rank":402,
+    "title":"Aiyaa",
+    "releasedOn":"10/11/12",
+    "studio":"UTV Communications",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":36967,
+    "tickets":4644
+  },
+  {
+    "rank":403,
+    "title":"The Inbetweeners",
+    "releasedOn":"9/7/12",
+    "studio":"Wrekin Hill Entertainment",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":35955,
+    "tickets":4516
+  },
+  {
+    "rank":404,
+    "title":"Paranormal Activity 3",
+    "releasedOn":"10/21/11",
+    "studio":"Paramount Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":35568,
+    "tickets":4468
+  },
+  {
+    "rank":405,
+    "title":"Comic-Con Episode IV: A Fan's Hope",
+    "releasedOn":"4/6/12",
+    "studio":"Wrekin Hill Entertainment",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":34665,
+    "tickets":4354
+  },
+  {
+    "rank":406,
+    "title":"My Reincarnation",
+    "releasedOn":"10/28/11",
+    "studio":"Long Shot Factory",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":34574,
+    "tickets":4343
+  },
+  {
+    "rank":407,
+    "title":"Vulgaria",
+    "releasedOn":"9/28/12",
+    "studio":"China Lion Film Distribution",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":33700,
+    "tickets":4233
+  },
+  {
+    "rank":408,
+    "title":"Addiction Incorporated",
+    "releasedOn":"12/14/11",
+    "studio":"Variance Films",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":33664,
+    "tickets":4229
+  },
+  {
+    "rank":409,
+    "title":"District of Corruption",
+    "releasedOn":"10/26/12",
+    "studio":"Rocky Mountain Pictures",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":31954,
+    "tickets":4014
+  },
+  {
+    "rank":410,
+    "title":"Musical Chairs",
+    "releasedOn":"3/23/12",
+    "studio":"Paladin",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":31478,
+    "tickets":3954
+  },
+  {
+    "rank":411,
+    "title":"West of Memphis",
+    "releasedOn":"12/25/12",
+    "studio":"Sony Pictures Classics",
+    "genre":"Documentary",
+    "rating":"R",
+    "revenue":31476,
+    "tickets":3954
+  },
+  {
+    "rank":412,
+    "title":"L!fe Happens",
+    "releasedOn":"4/13/12",
+    "studio":"PMK*BNC",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":30905,
+    "tickets":3882
+  },
+  {
+    "rank":413,
+    "title":"Gregory Crewdson: Brief Encounters",
+    "releasedOn":"11/2/12",
+    "studio":"Zeitgeist",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":30717,
+    "tickets":3858
+  },
+  {
+    "rank":414,
+    "title":"The Bay",
+    "releasedOn":"11/2/12",
+    "studio":"Roadside Attractions",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":30668,
+    "tickets":3852
+  },
+  {
+    "rank":415,
+    "title":"Hide Away",
+    "releasedOn":"5/25/12",
+    "studio":"Joule Films",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":30655,
+    "tickets":3851
+  },
+  {
+    "rank":416,
+    "title":"Just Another Love Story",
+    "releasedOn":"1/9/09",
+    "studio":"Koch Lorber Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":29630,
+    "tickets":3722
+  },
+  {
+    "rank":417,
+    "title":"Meet the Fokkens",
+    "releasedOn":"8/8/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":29357,
+    "tickets":3688
+  },
+  {
+    "rank":418,
+    "title":"Wagner & Me",
+    "releasedOn":"12/7/12",
+    "studio":"First Run Features",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":29187,
+    "tickets":3666
+  },
+  {
+    "rank":419,
+    "title":"Least Among Saints",
+    "releasedOn":"10/12/12",
+    "studio":"Brainstorm Media",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":28026,
+    "tickets":3520
+  },
+  {
+    "rank":420,
+    "title":"Klown: The Movie",
+    "releasedOn":"7/27/12",
+    "studio":"Drafthouse Films",
+    "genre":"Black Comedy",
+    "rating":"R",
+    "revenue":28000,
+    "tickets":3517
+  },
+  {
+    "rank":421,
+    "title":"Mighty Fine",
+    "releasedOn":"5/25/12",
+    "studio":"Adopt Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":27900,
+    "tickets":3505
+  },
+  {
+    "rank":422,
+    "title":"Sacrifice",
+    "releasedOn":"4/26/11",
+    "studio":"Millennium Entertainment",
+    "genre":"",
+    "rating":"R",
+    "revenue":27899,
+    "tickets":3504
+  },
+  {
+    "rank":423,
+    "title":"Nobody Walks",
+    "releasedOn":"10/19/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":25342,
+    "tickets":3183
+  },
+  {
+    "rank":424,
+    "title":"Orchestra of Exiles",
+    "releasedOn":"10/26/12",
+    "studio":"First Run Features",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":24710,
+    "tickets":3104
+  },
+  {
+    "rank":425,
+    "title":"Sound of Noise",
+    "releasedOn":"3/9/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":24565,
+    "tickets":3086
+  },
+  {
+    "rank":426,
+    "title":"Keyhole",
+    "releasedOn":"4/6/12",
+    "studio":"Monterey Media",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":22393,
+    "tickets":2813
+  },
+  {
+    "rank":427,
+    "title":"The Guard",
+    "releasedOn":"7/29/11",
+    "studio":"Sony Pictures Classics",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":21619,
+    "tickets":2715
+  },
+  {
+    "rank":428,
+    "title":"North Sea Texas",
+    "releasedOn":"11/2/12",
+    "studio":"Strand",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":21615,
+    "tickets":2715
+  },
+  {
+    "rank":429,
+    "title":"Lay the Favorite",
+    "releasedOn":"12/7/12",
+    "studio":"Radius",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":20998,
+    "tickets":2637
+  },
+  {
+    "rank":430,
+    "title":"The Day",
+    "releasedOn":"8/29/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":20984,
+    "tickets":2636
+  },
+  {
+    "rank":431,
+    "title":"Carol Channing: Larger Than Life",
+    "releasedOn":"1/20/12",
+    "studio":"Entertainment One",
+    "genre":"Documentary",
+    "rating":"PG",
+    "revenue":20370,
+    "tickets":2559
+  },
+  {
+    "rank":432,
+    "title":"The Whale",
+    "releasedOn":"9/9/11",
+    "studio":"Paladin",
+    "genre":"Documentary",
+    "rating":"G",
+    "revenue":19722,
+    "tickets":2477
+  },
+  {
+    "rank":433,
+    "title":"Radio Unnameable",
+    "releasedOn":"9/19/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":19676,
+    "tickets":2471
+  },
+  {
+    "rank":434,
+    "title":"Waiting for Lightning",
+    "releasedOn":"12/7/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":19537,
+    "tickets":2454
+  },
+  {
+    "rank":435,
+    "title":"28 Hotel Rooms",
+    "releasedOn":"11/9/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":18869,
+    "tickets":2370
+  },
+  {
+    "rank":436,
+    "title":"The Revisionaries",
+    "releasedOn":"10/5/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":18509,
+    "tickets":2325
+  },
+  {
+    "rank":437,
+    "title":"Mansome",
+    "releasedOn":"5/18/12",
+    "studio":"Paladin",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":18395,
+    "tickets":2310
+  },
+  {
+    "rank":438,
+    "title":"The Divide",
+    "releasedOn":"1/13/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":18000,
+    "tickets":2261
+  },
+  {
+    "rank":439,
+    "title":"4:44 Last Day on Earth",
+    "releasedOn":"3/23/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":17801,
+    "tickets":2236
+  },
+  {
+    "rank":440,
+    "title":"The First Time",
+    "releasedOn":"10/19/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":17061,
+    "tickets":2143
+  },
+  {
+    "rank":441,
+    "title":"Dangerous Liaisons",
+    "releasedOn":"11/9/12",
+    "studio":"Well Go USA",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":17000,
+    "tickets":2135
+  },
+  {
+    "rank":442,
+    "title":"Little Birds",
+    "releasedOn":"8/29/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":16594,
+    "tickets":2084
+  },
+  {
+    "rank":443,
+    "title":"Alps",
+    "releasedOn":"7/13/12",
+    "studio":"Kino Lorber",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":16057,
+    "tickets":2017
+  },
+  {
+    "rank":444,
+    "title":"Before My Heart Falls",
+    "releasedOn":"11/16/12",
+    "studio":"Mongrel Media",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":15753,
+    "tickets":1979
+  },
+  {
+    "rank":445,
+    "title":"Take Me Home",
+    "releasedOn":"4/6/12",
+    "studio":"Monterey Media",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":15374,
+    "tickets":1931
+  },
+  {
+    "rank":446,
+    "title":"Trade of Innocents",
+    "releasedOn":"10/5/12",
+    "studio":"Monterey Media",
+    "genre":"Thriller/Suspense",
+    "rating":"PG-13",
+    "revenue":15091,
+    "tickets":1895
+  },
+  {
+    "rank":447,
+    "title":"30 Beats",
+    "releasedOn":"7/20/12",
+    "studio":"Roadside Attractions",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":14686,
+    "tickets":1844
+  },
+  {
+    "rank":448,
+    "title":"Like Crazy",
+    "releasedOn":"10/28/11",
+    "studio":"Paramount Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":14619,
+    "tickets":1836
+  },
+  {
+    "rank":449,
+    "title":"Trastana",
+    "releasedOn":"9/21/70",
+    "studio":"",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":14586,
+    "tickets":1832
+  },
+  {
+    "rank":450,
+    "title":"Silent Night",
+    "releasedOn":"11/30/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":14568,
+    "tickets":1830
+  },
+  {
+    "rank":451,
+    "title":"Gayby",
+    "releasedOn":"10/12/12",
+    "studio":"The Film Collaborative",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":14062,
+    "tickets":1766
+  },
+  {
+    "rank":452,
+    "title":"6 Month Rule",
+    "releasedOn":"6/1/12",
+    "studio":"Secret Identity Productions",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":14057,
+    "tickets":1765
+  },
+  {
+    "rank":453,
+    "title":"Head Games",
+    "releasedOn":"9/21/12",
+    "studio":"Variance Films",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":14056,
+    "tickets":1765
+  },
+  {
+    "rank":454,
+    "title":"Jesus Henry Christ",
+    "releasedOn":"4/20/12",
+    "studio":"Entertainment One",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":13714,
+    "tickets":1722
+  },
+  {
+    "rank":455,
+    "title":"Reuniting the Rubins",
+    "releasedOn":"3/16/12",
+    "studio":"Monterey Media",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":13569,
+    "tickets":1704
+  },
+  {
+    "rank":456,
+    "title":"Outrage",
+    "releasedOn":"12/2/11",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":13149,
+    "tickets":1651
+  },
+  {
+    "rank":457,
+    "title":"The Trouble With Bliss",
+    "releasedOn":"3/23/12",
+    "studio":"7A Productions",
+    "genre":"Comedy",
+    "rating":"PG-13",
+    "revenue":13093,
+    "tickets":1644
+  },
+  {
+    "rank":458,
+    "title":"Citadel",
+    "releasedOn":"11/9/12",
+    "studio":"Cinedigm",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":12995,
+    "tickets":1632
+  },
+  {
+    "rank":459,
+    "title":"California Solo",
+    "releasedOn":"11/30/12",
+    "studio":"Strand",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":12952,
+    "tickets":1627
+  },
+  {
+    "rank":460,
+    "title":"The End of Time",
+    "releasedOn":"6/30/13",
+    "studio":"First Run Features",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":12835,
+    "tickets":1612
+  },
+  {
+    "rank":461,
+    "title":"Blackthorn",
+    "releasedOn":"10/7/11",
+    "studio":"Magnolia Pictures",
+    "genre":"Adventure",
+    "rating":"R",
+    "revenue":11841,
+    "tickets":1487
+  },
+  {
+    "rank":462,
+    "title":"Dragon",
+    "releasedOn":"11/30/12",
+    "studio":"Weinstein Co.",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":11300,
+    "tickets":1419
+  },
+  {
+    "rank":463,
+    "title":"Special Forces",
+    "releasedOn":"10/12/12",
+    "studio":"Entertainment One",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":10759,
+    "tickets":1351
+  },
+  {
+    "rank":464,
+    "title":"A Little Bit of Heaven",
+    "releasedOn":"5/4/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":10011,
+    "tickets":1257
+  },
+  {
+    "rank":465,
+    "title":"The Do-Deca Pentathlon",
+    "releasedOn":"7/6/12",
+    "studio":"Red Flag Releasing",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":10000,
+    "tickets":1256
+  },
+  {
+    "rank":466,
+    "title":"Beneath the Darkness",
+    "releasedOn":"1/6/12",
+    "studio":"Image Entertainment",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":9600,
+    "tickets":1206
+  },
+  {
+    "rank":467,
+    "title":"[REC] 3: Genesis",
+    "releasedOn":"9/7/12",
+    "studio":"Magnet Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":9600,
+    "tickets":1206
+  },
+  {
+    "rank":468,
+    "title":"Happy People: A Year in the Taiga",
+    "releasedOn":"12/9/11",
+    "studio":"Mongrel Media",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":9523,
+    "tickets":1196
+  },
+  {
+    "rank":469,
+    "title":"BRO'",
+    "releasedOn":"6/22/12",
+    "studio":"",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":9329,
+    "tickets":1171
+  },
+  {
+    "rank":470,
+    "title":"Decoding Deepak",
+    "releasedOn":"10/5/12",
+    "studio":"SnagFilms",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":9050,
+    "tickets":1136
+  },
+  {
+    "rank":471,
+    "title":"Letters to Elena",
+    "releasedOn":"6/8/12",
+    "studio":"Freestyle Releasing",
+    "genre":"Drama",
+    "rating":"PG",
+    "revenue":8511,
+    "tickets":1069
+  },
+  {
+    "rank":472,
+    "title":"In Another Country",
+    "releasedOn":"11/9/12",
+    "studio":"Kino Lorber",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":8451,
+    "tickets":1061
+  },
+  {
+    "rank":473,
+    "title":"Brooklyn Brothers Beat the Best",
+    "releasedOn":"9/21/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":8418,
+    "tickets":1057
+  },
+  {
+    "rank":474,
+    "title":"Roadie",
+    "releasedOn":"1/6/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":7825,
+    "tickets":983
+  },
+  {
+    "rank":475,
+    "title":"Photographic Memory",
+    "releasedOn":"10/12/12",
+    "studio":"First Run Features",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":7711,
+    "tickets":968
+  },
+  {
+    "rank":476,
+    "title":"Bel Borba Aqui",
+    "releasedOn":"10/3/12",
+    "studio":"Abramorama Films",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":7426,
+    "tickets":932
+  },
+  {
+    "rank":477,
+    "title":"Price Check",
+    "releasedOn":"11/16/12",
+    "studio":"IFC Films",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":7413,
+    "tickets":931
+  },
+  {
+    "rank":478,
+    "title":"The Giant Mechanical Man",
+    "releasedOn":"4/27/12",
+    "studio":"TriBeca Films",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":7396,
+    "tickets":929
+  },
+  {
+    "rank":479,
+    "title":"Hitler's Children",
+    "releasedOn":"11/16/12",
+    "studio":"Film Movement",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":6923,
+    "tickets":869
+  },
+  {
+    "rank":480,
+    "title":"The Last Fall",
+    "releasedOn":"10/26/12",
+    "studio":"",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":6568,
+    "tickets":825
+  },
+  {
+    "rank":481,
+    "title":"In Our Nature",
+    "releasedOn":"12/7/12",
+    "studio":"Cinedigm",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":6543,
+    "tickets":821
+  },
+  {
+    "rank":482,
+    "title":"Grassroots",
+    "releasedOn":"6/22/12",
+    "studio":"Samuel Goldwyn Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":6497,
+    "tickets":816
+  },
+  {
+    "rank":483,
+    "title":"Django",
+    "releasedOn":"12/21/12",
+    "studio":"Rialto Pictures",
+    "genre":"Western",
+    "rating":"Not Rated",
+    "revenue":6150,
+    "tickets":772
+  },
+  {
+    "rank":484,
+    "title":"Tchoupitoulas",
+    "releasedOn":"12/7/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":6011,
+    "tickets":755
+  },
+  {
+    "rank":485,
+    "title":"Bienvenue parmi nous",
+    "releasedOn":"10/7/12",
+    "studio":"Mongrel Media",
+    "genre":"",
+    "rating":"Not Rated",
+    "revenue":5912,
+    "tickets":742
+  },
+  {
+    "rank":486,
+    "title":"The Last Ride",
+    "releasedOn":"6/22/12",
+    "studio":"Category One",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":5887,
+    "tickets":739
+  },
+  {
+    "rank":487,
+    "title":"The Babymakers",
+    "releasedOn":"8/3/12",
+    "studio":"Millennium Entertainment",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":5783,
+    "tickets":726
+  },
+  {
+    "rank":488,
+    "title":"Save the Date",
+    "releasedOn":"12/14/12",
+    "studio":"IFC Films",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":5719,
+    "tickets":718
+  },
+  {
+    "rank":489,
+    "title":"The Man Who Shook the Hand of Vicente Fernandez",
+    "releasedOn":"12/7/12",
+    "studio":"Indican Pictures",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":5609,
+    "tickets":704
+  },
+  {
+    "rank":490,
+    "title":"Young and Wild",
+    "releasedOn":"11/30/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":5514,
+    "tickets":692
+  },
+  {
+    "rank":491,
+    "title":"Universal Soldier: Day of Reckoning",
+    "releasedOn":"11/30/12",
+    "studio":"Magnet Pictures",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":5460,
+    "tickets":685
+  },
+  {
+    "rank":492,
+    "title":"The Good Doctor",
+    "releasedOn":"8/31/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":5206,
+    "tickets":654
+  },
+  {
+    "rank":493,
+    "title":"A Liar's Autobiography - The Untrue Story of Monty Python's Graham Chapman",
+    "releasedOn":"11/2/12",
+    "studio":"Brainstorm Media",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":5102,
+    "tickets":640
+  },
+  {
+    "rank":494,
+    "title":"Pusher",
+    "releasedOn":"10/26/12",
+    "studio":"Radius",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":5040,
+    "tickets":633
+  },
+  {
+    "rank":495,
+    "title":"Bringing Up Bobby",
+    "releasedOn":"9/28/12",
+    "studio":"Monterey Media",
+    "genre":"Drama",
+    "rating":"PG-13",
+    "revenue":4975,
+    "tickets":625
+  },
+  {
+    "rank":496,
+    "title":"Tomorrow When the War Began",
+    "releasedOn":"2/24/12",
+    "studio":"Freestyle Releasing",
+    "genre":"Action",
+    "rating":"R",
+    "revenue":4936,
+    "tickets":620
+  },
+  {
+    "rank":497,
+    "title":"Brake",
+    "releasedOn":"3/23/12",
+    "studio":"IFC Films",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":4876,
+    "tickets":612
+  },
+  {
+    "rank":498,
+    "title":"Newlyweds",
+    "releasedOn":"1/13/12",
+    "studio":"TriBeca Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":4584,
+    "tickets":575
+  },
+  {
+    "rank":499,
+    "title":"Tonight You're Mine",
+    "releasedOn":"5/11/12",
+    "studio":"Roadside Attractions",
+    "genre":"Romantic Comedy",
+    "rating":"R",
+    "revenue":4321,
+    "tickets":542
+  },
+  {
+    "rank":500,
+    "title":"The Rabbi's Cat",
+    "releasedOn":"12/7/12",
+    "studio":"GKIDS",
+    "genre":"Adventure",
+    "rating":"Not Rated",
+    "revenue":4301,
+    "tickets":540
+  },
+  {
+    "rank":501,
+    "title":"The Lion King 3D",
+    "releasedOn":"9/16/11",
+    "studio":"Walt Disney",
+    "genre":"Adventure",
+    "rating":"G",
+    "revenue":4271,
+    "tickets":536
+  },
+  {
+    "rank":502,
+    "title":"Only the Young",
+    "releasedOn":"12/7/12",
+    "studio":"Oscilloscope Pictures",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":4038,
+    "tickets":507
+  },
+  {
+    "rank":503,
+    "title":"The Moth Diaries",
+    "releasedOn":"4/20/12",
+    "studio":"IFC Films",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":3838,
+    "tickets":482
+  },
+  {
+    "rank":504,
+    "title":"Amigo",
+    "releasedOn":"8/19/11",
+    "studio":"Variance Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":3811,
+    "tickets":478
+  },
+  {
+    "rank":505,
+    "title":"Let Fury Have the Hour",
+    "releasedOn":"12/14/12",
+    "studio":"CAVU Releasing",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":3386,
+    "tickets":425
+  },
+  {
+    "rank":506,
+    "title":"Vamps",
+    "releasedOn":"11/2/12",
+    "studio":"Anchor Bay Entertainment",
+    "genre":"Romantic Comedy",
+    "rating":"PG-13",
+    "revenue":3361,
+    "tickets":422
+  },
+  {
+    "rank":507,
+    "title":"Terkel in Trouble",
+    "releasedOn":"3/26/10",
+    "studio":"",
+    "genre":"Adventure",
+    "rating":"Not Rated",
+    "revenue":3259,
+    "tickets":409
+  },
+  {
+    "rank":508,
+    "title":"Miss Minoes",
+    "releasedOn":"12/23/11",
+    "studio":"Music Box Films",
+    "genre":"Adventure",
+    "rating":"PG",
+    "revenue":3061,
+    "tickets":384
+  },
+  {
+    "rank":509,
+    "title":"ATM",
+    "releasedOn":"4/6/12",
+    "studio":"IFC Films",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":3010,
+    "tickets":378
+  },
+  {
+    "rank":510,
+    "title":"Free Radicals",
+    "releasedOn":"8/3/04",
+    "studio":"Kino International",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":2954,
+    "tickets":371
+  },
+  {
+    "rank":511,
+    "title":"Cheerful Weather for the Wedding",
+    "releasedOn":"12/7/12",
+    "studio":"IFC Films",
+    "genre":"Romantic Comedy",
+    "rating":"PG",
+    "revenue":2651,
+    "tickets":333
+  },
+  {
+    "rank":512,
+    "title":"The Samaritan",
+    "releasedOn":"5/18/12",
+    "studio":"IFC Films",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":2521,
+    "tickets":316
+  },
+  {
+    "rank":513,
+    "title":"Why Stop Now",
+    "releasedOn":"8/17/12",
+    "studio":"IFC Films",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":2432,
+    "tickets":305
+  },
+  {
+    "rank":514,
+    "title":"The Monk",
+    "releasedOn":"3/8/13",
+    "studio":"ATO Pictures",
+    "genre":"Thriller/Suspense",
+    "rating":"R",
+    "revenue":2164,
+    "tickets":271
+  },
+  {
+    "rank":515,
+    "title":"Bad Blood The Hunger",
+    "releasedOn":"10/26/12",
+    "studio":"Garvity Arch",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":1872,
+    "tickets":235
+  },
+  {
+    "rank":516,
+    "title":"My Worst Nightmare",
+    "releasedOn":"10/19/12",
+    "studio":"Strand",
+    "genre":"Comedy",
+    "rating":"Not Rated",
+    "revenue":1810,
+    "tickets":227
+  },
+  {
+    "rank":517,
+    "title":"Perfect Sense",
+    "releasedOn":"2/10/12",
+    "studio":"IFC Films",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1567,
+    "tickets":196
+  },
+  {
+    "rank":518,
+    "title":"Bestiare",
+    "releasedOn":"10/19/12",
+    "studio":"Zeitgeist",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":1428,
+    "tickets":179
+  },
+  {
+    "rank":519,
+    "title":"A Green Story",
+    "releasedOn":"11/16/12",
+    "studio":"Indican Pictures",
+    "genre":"Drama",
+    "rating":"Not Rated",
+    "revenue":1395,
+    "tickets":175
+  },
+  {
+    "rank":520,
+    "title":"I Kissed a Vampire",
+    "releasedOn":"3/30/12",
+    "studio":"Monterey Media",
+    "genre":"Musical",
+    "rating":"PG",
+    "revenue":1380,
+    "tickets":173
+  },
+  {
+    "rank":521,
+    "title":"Jack and Diane",
+    "releasedOn":"11/2/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":1142,
+    "tickets":143
+  },
+  {
+    "rank":522,
+    "title":"Jason Becker: Not Dead Yet",
+    "releasedOn":"12/14/12",
+    "studio":"Kino Lorber",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":1094,
+    "tickets":137
+  },
+  {
+    "rank":523,
+    "title":"The Decoy Bride",
+    "releasedOn":"3/9/12",
+    "studio":"IFC Films",
+    "genre":"Comedy",
+    "rating":"PG",
+    "revenue":759,
+    "tickets":95
+  },
+  {
+    "rank":524,
+    "title":"Nature Calls",
+    "releasedOn":"11/9/12",
+    "studio":"Magnet Pictures",
+    "genre":"Comedy",
+    "rating":"R",
+    "revenue":646,
+    "tickets":81
+  },
+  {
+    "rank":525,
+    "title":"Gottfried Helnwein and the Dreaming Child",
+    "releasedOn":"11/23/12",
+    "studio":"First Run Features",
+    "genre":"Documentary",
+    "rating":"Not Rated",
+    "revenue":601,
+    "tickets":75
+  },
+  {
+    "rank":526,
+    "title":"Into the Abyss",
+    "releasedOn":"11/11/11",
+    "studio":"IFC Films",
+    "genre":"Documentary",
+    "rating":"PG-13",
+    "revenue":540,
+    "tickets":68
+  },
+  {
+    "rank":527,
+    "title":"Meeting Evil",
+    "releasedOn":"5/4/12",
+    "studio":"Magnet Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":525,
+    "tickets":65
+  },
+  {
+    "rank":528,
+    "title":"Angels Crest",
+    "releasedOn":"12/30/11",
+    "studio":"Magnolia Pictures",
+    "genre":"Drama",
+    "rating":"R",
+    "revenue":425,
+    "tickets":54
+  },
+  {
+    "rank":529,
+    "title":"Playback",
+    "releasedOn":"3/16/12",
+    "studio":"Magnet Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":264,
+    "tickets":33
+  },
+  {
+    "rank":530,
+    "title":"Apartment 143",
+    "releasedOn":"6/1/12",
+    "studio":"Magnolia Pictures",
+    "genre":"Horror",
+    "rating":"R",
+    "revenue":256,
+    "tickets":32
+  }
+]

@@ -21,24 +21,28 @@ function updateMessage(msg) {
 function onGeoSuccess(position) {
     //create a new Google LatLng object to represent
     //our current latitude and longitude
-    var ll = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+    var ll = new google.maps.LatLng(position.coords.latitude,
+        position.coords.longitude);
 
     //create a simple object for the map options
     var mapOptions = {
-        center: ll, 
+        center: ll,
         zoom: 16,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     }
+
     //create a new Google Map object
     //passing a reference to the map container div
     //and our map options
     var map = new google.maps.Map($('.map-container')[0], mapOptions);
+
     //now add a marker on the map showing our lat/long
-    var marker = new google.maps.Marker(markerOptions)({
+    var marker = new google.maps.Marker({
         map: map,
-        positon: ll,
+        position: ll,
         title: 'You are here!'
     });
+
     //finally update our message text
     updateMessage("Here is where you are (accuracy within " 
         + position.coords.accuracy + " meters)");
@@ -64,11 +68,11 @@ $(function(){
     if (navigator && navigator.geolocation) {
         updateMessage('I am now obtaining your current position...');
 
-        navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError,
+        navigator.geolocation.getCurrentPosition(onGeoSuccess, onGeoError, 
             {enableHighAccuracy: true});
-
     }
     else {
         updateMessage("Sorry, geolocation services are not available!");
     }
+
 }); //document ready

@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>SVG Demo</title>
+        <link rel="stylesheet" href="css/svgdemo.css">
+    </head>
+    <body>
+        <!-- svg markup goes here -->
+        <svg class="svg-demo" width="800" height="600">
+            <line class="axis" x1="50" y1="550" x2="700" y2="550" />
+            <line class="axis" x1="50" y1="550" x2="50" y2="50" />
+
+            <circle class="point" cx="300" cy="300" r="10">
+                <title>My Happy Data Point</title> 
+            </circle>
+
+            <circle class="point" cx="200" cy="200" r="10">
+                <title>Another Happy Data Point</title>
+            </circle>
+            
+            <circle class="point" cx="400" cy="400" r="10"/>
+            <circle class="point" cx="405" cy="405" r="10"/>
+
+        </svg>
+
+        
+        <!-- hot link to minified jQuery library, version 2.0.3 -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+        <!-- our own JavaScript file -->
+        <script src="js/svgdemo.js"></script>
+    </body>
+</html>

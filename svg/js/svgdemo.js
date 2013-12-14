@@ -1,0 +1,4 @@
+/*
+    svgdemo.js
+    JavaScript file for the SVG demo page
+*/

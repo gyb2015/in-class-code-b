@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>JavaScript OOP</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <div class="output">
+            
+        </div>
+
+        <!-- hot link to prototype.js -->
+        <script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+        <!-- hot link to jQuery --> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+        <script>
+            //because both jQuery and Prototype use the $ as an alias
+            //to a global function, we need to use jQuery's noConflict()
+            //method, which will cause jQuery to not assign its global
+            //function to the global varaible $, but still allow us to 
+            //assign it to some other global variable of our choosing
+            //(in this case $j)
+            var $j = jQuery.noConflict();
+        </script>
+
+        <!-- common functions -->
+        <script src="js/core.js"></script>
+
+        <!-- script files to demo different styles of JavaScript OOP -->
+        <!-- <script src="js/classical.js"></script> -->
+        <!-- <script src="js/prototypal.js"></script> -->
+        <script src="js/mixin.js"></script>
+
+    </body>
+</html>

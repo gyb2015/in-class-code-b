@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>To-Do List</title>
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/tasks.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>New Task</h1>
+            <form role="form" class="new-task-form">
+                <div class="form-group">
+                    <label for="title">New Task Title</label>
+                    <input type="text" class="form-control" id="title" data-model-attr="title" placeholder="new task title" required autofocus>
+                </div>
+                <button type="submit" class="btn btn-primary">Create New Task</button>
+            </form>
+
+            <h1>Current Tasks</h1>
+            <div class="tasks-container"></div>
+            <p><button type="button" class="btn btn-default btn-remove-done">Remove Done Tasks</button></p>
+
+        </div>
+
+        <div class="templates">
+            <div class="tasks-template">
+                <p class="task">
+                    <input type="checkbox" data-model-attr="done">
+                    <span data-model-attr="title"></span>
+                </p>
+            </div>
+        </div>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+        <script src="js/utils.js"></script>
+        <script src="js/eventSource.js"></script>
+        <script src="js/tasksModel.js"></script>
+        <script src="js/tasksListView.js"></script>
+        <script src="js/newTaskView.js"></script>
+        <script src="js/tasksController.js"></script>
+    </body>
+</html>

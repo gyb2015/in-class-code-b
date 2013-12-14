@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Movies Data Service</title>
+    </head>
+    <body>
+        <h1>Movie Box Office Data for 2012</h1>
+
+        <p>This service can return various box office data for 2012 in JSON format. To get this data, you can request various URLs:</p>
+
+        <ul>
+            <li><a href="/movies/">/movies/</a> will return an array of movie objects</li>
+            <li><a href="/genres/">/genres/</a> will return a list of all distinct genres (e.g., 'drama', 'comedy', etc.)</li>
+            <li><a href="/genres/comedy/">/genres/<em>genre-name</em>/</a> will return overall stats for the particular genre requested</li>
+            <li><a href="/genres/comedy/movies/">/genres/<em>genre-name</em>/movies/</a> will return all movies for the particular genre</li>
+            <li><a href="/studios/">/studios/</a> will return a list of all distinct studios (e.g., 'walt disney', 'focus features', etc)</li>
+            <li><a href="/studios/walt%20disney/">/studios/<em>studio-name</em>/</a> will return overall stats for the particular studio requested</li>
+            <li><a href="/studios/walt%20disney/movies/">/studios/<em>studio-name</em>/movies/</a> will return all movies for the particular studio</li>
+            <li><a href="/ratings/">/ratings/</a> will return a list of all distinct ratings (e.g., 'g', 'pg-13', etc)</li>
+            <li><a href="/ratings/r/">/ratings/<em>rating-name</em>/</a> will return overall stats for the particular rating requested</li>
+            <li><a href="/ratings/r/movies/">/ratings/<em>rating-name</em>/movies/</a> will return all movies for the particular rating</li>
+        </ul>
+
+    </body>
+</html>
